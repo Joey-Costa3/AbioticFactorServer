@@ -1,0 +1,21 @@
+services:
+  abiotic-server:
+    image: "ghcr.io/pleut/abiotic-factor-linux-docker:latest"
+    restart: unless-stopped
+    volumes:
+      - "/home/costadelmars/servers/abiotic_factor/gamefiles:/server"
+      - "/home/costadelmars/servers/abiotic_factor/data:/server/AbioticFactor/Saved"
+    environment:
+      - MaxServerPlayers=6
+      - Port=7787
+      - QueryPort=27025
+      - ServerPassword=qwerty
+      - SteamServerName=CostaDelMars
+      - UsePerfThreads=true
+      - NoAsyncLoadingThread=true
+      - WorldSaveName=Oblivion
+      - AutoUpdate=true
+#     - AdditionalArgs=-SandboxIniPath=Config/WindowsServer/Server1Sandbox.ini
+    ports:
+      - "0.0.0.0:7787:7787/udp"
+      - "0.0.0.0:27025:27025/udp"

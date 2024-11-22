@@ -1,0 +1,1267 @@
+﻿Log file open, 11/05/24 00:58:16
+LogWindows: Enabling Tpause support
+LogWindows: Custom abort handler registered for crash reporting.
+LogPakFile: Initializing PakPlatformFile
+LogIoDispatcher: Display: Reading toc: ../../../AbioticFactor/Content/Paks/global.utoc
+LogIoDispatcher: Display: Toc signature hash: 0000000000000000000000000000000000000000
+LogIoDispatcher: Display: Mounting container '../../../AbioticFactor/Content/Paks/global.utoc' in location slot 0
+LogPakFile: Display: Initialized I/O dispatcher file backend. Mounted the global container: ../../../AbioticFactor/Content/Paks/global.utoc
+LogPakFile: Display: Found Pak file ../../../AbioticFactor/Content/Paks/pakchunk0-WindowsServer.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../AbioticFactor/Content/Paks/pakchunk0-WindowsServer.pak.
+LogIoDispatcher: Display: Reading toc: ../../../AbioticFactor/Content/Paks/pakchunk0-WindowsServer.utoc
+LogIoDispatcher: Display: Toc signature hash: 0000000000000000000000000000000000000000
+LogIoDispatcher: Display: Mounting container '../../../AbioticFactor/Content/Paks/pakchunk0-WindowsServer.utoc' in location slot 0
+LogPakFile: Display: Mounted IoStore container "../../../AbioticFactor/Content/Paks/pakchunk0-WindowsServer.utoc"
+LogPakFile: Display: Mounted Pak file '../../../AbioticFactor/Content/Paks/pakchunk0-WindowsServer.pak', mount point: '../../../'
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-D967E35F47A077AD91E5BF86E8172CCD
+         Session CrashGUID >====================================================
+LogAssetRegistry: Premade AssetRegistry loaded from '../../../AbioticFactor/AssetRegistry.bin'
+LogPluginManager: Mounting Project plugin AdvancedSessions
+LogPluginManager: Mounting Project plugin AutoSettings
+LogPluginManager: Mounting Project plugin CommonLoadingScreen
+LogPluginManager: Mounting Project plugin DataTableEditorUtilities
+LogPluginManager: Mounting Project plugin Dovrac
+LogPluginManager: Mounting Project plugin GameAnalytics
+LogPluginManager: Mounting Project plugin HTTPSServer
+LogPluginManager: Mounting Project plugin NPC_Optimizator
+LogPluginManager: Mounting Project plugin SteamCore
+LogPluginManager: Mounting Project plugin UniversalVoiceChatPro
+LogPluginManager: Mounting Project plugin VictoryBPLibrary
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin ACLPlugin
+LogPluginManager: Mounting Engine plugin AnimationData
+LogPluginManager: Mounting Engine plugin ControlRigModules
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin DeformerGraph
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin BlueprintFileUtils
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosVD
+LogPluginManager: Found config from plugin[ChaosVD] Engine
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin MultiUserClient
+LogPluginManager: Mounting Engine plugin ConcertMain
+LogPluginManager: Mounting Engine plugin ConcertReplicationScripting
+LogPluginManager: Mounting Engine plugin ConcertSyncClient
+LogPluginManager: Mounting Engine plugin ConcertSyncCore
+LogPluginManager: Mounting Engine plugin ConcertClientSharedSlate
+LogPluginManager: Mounting Engine plugin ConcertSharedSlate
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin BlueprintHeaderView
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin LightMixer
+LogPluginManager: Mounting Engine plugin ObjectMixer
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin UVEditor
+LogPluginManager: Mounting Engine plugin EnhancedInput
+LogPluginManager: Found config from plugin[EnhancedInput] Input
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin GLTFExporter
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin VariantManager
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCaching
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosUserDataPT
+LogPluginManager: Mounting Engine plugin ChaosVehiclesPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin Dataflow
+LogPluginManager: Mounting Engine plugin Fracture
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin LocalizableMessage
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin StructUtils
+LogPluginManager: Mounting Engine plugin ToolPresets
+LogPluginManager: Mounting Engine plugin NiagaraSimCaching
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin Fab
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin BinkMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlate
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemSteam
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AnalyticsBlueprintLibrary
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin ApexDestruction
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioWidgets
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ComputeFramework
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin SQLiteCore
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HDRIBackdrop
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin Metasound
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin MsQuic
+LogPluginManager: Mounting Engine plugin DTLSHandlerComponent
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ReplicationGraph
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RigVM
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin SoundUtilities
+LogPluginManager: Mounting Engine plugin SteamShared
+LogPluginManager: Mounting Engine plugin SteamSockets
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WaveTable
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin XInputDevice
+LogPluginManager: Mounting Engine plugin InterchangeTests
+LogPluginManager: Mounting Engine plugin TraceUtilities
+LogPluginManager: Mounting Engine plugin MultiUserTakes
+LogPluginManager: Mounting Engine plugin Takes
+LogPluginManager: Mounting Engine plugin WorldMetrics
+LogHAL: Log category LogOnline verbosity has been raised to Verbose.
+LogHAL: Log category LogNet verbosity has been raised to Verbose.
+LogInit: Using libcurl 8.4.0
+LogInit:  - built for Windows
+LogInit:  - supports SSL with OpenSSL/1.1.1t
+LogInit:  - supports HTTP deflate (compression) using libz 1.3
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: CreateHttpThread using FCurlHttpThread
+LogSteamShared: Display: Loading Steam SDK 1.57
+LogSteamShared: Steam SDK Loaded!
+LogOnline: Verbose: STEAM: Steam: Starting SteamWorks. Client [0] Server [1]
+LogOnline: STEAM: [AppId: 427410] Game Server API initialized 1
+LogOnline: Verbose: STEAM: Created thread (ID:300).
+LogOnline: OSS: Created online subsystem instance for: STEAM
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [STEAM]
+LogInit: ExecutableName: AbioticFactorServer-Win64-Shipping.exe
+LogInit: Build: UE5-CL-0
+LogInit: Platform=WindowsServer
+LogInit: MachineId=3a2c3a804d23e87113b670ac1da23c39
+LogInit: DeviceId=
+LogInit: Engine Version: 5.4.4-0+UE5
+LogInit: Compatible Engine Version: 5.4.0-0+UE5
+LogInit: Net CL: 0
+LogInit: OS: Windows 7 (Service Pack 1), CPU: 12th Gen Intel(R) Core(TM) i7-12700K, GPU: Wine Adapter
+LogInit: Compiled (64-bit): Oct 24 2024 12:50:36
+LogInit: Architecture: x64
+LogInit: Compiled with Visual C++: 19.38.33139.00
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: UE5
+LogInit: Command Line:  -useperfthreads -NoAsyncLoadingThread -MaxServerPlayers=6 -PORT=7787 -QueryPort=27025 -ServerPassword=qwerty -SteamServerName=CostaDelMars -WorldSaveName=Oblivion -tcp
+LogInit: Base Directory: Z:/server/AbioticFactor/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogInit: This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Set CVar [[net.IsPushModelEnabled:1]]
+LogConfig: Set CVar [[net.PushModelSkipUndirtiedReplication:1]]
+LogConfig: Set CVar [[r.setres:1280x720]]
+LogConfig: Set CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.GPUCrashDebugging:0]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.GenerateMeshDistanceFields:1]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.DynamicGlobalIlluminationMethod:1]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.ReflectionMethod:1]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.Shadow.Virtual.Enable:0]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs:0]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.DefaultFeature.AutoExposure:0]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.MinScreenRadiusForLights:0.060000]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.MinScreenRadiusForCSMDepth:0.030000]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.ReflectionCaptureResolution:64]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.RayTracing.UseTextureLod:1]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.Shadow.UnbuiltPreviewInGame:0]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.CustomDepth:3]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.AntiAliasingMethod:4]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.MSAACount:2]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.PSOPrecaching:0]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.DefaultFeature.MotionBlur:0]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.Nanite.ProjectEnabled:0]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.Shaders.RemoveUnusedInterpolators:1]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2024.11.05-00.58.17:041][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[s.AsyncLoadingThreadEnabled:1]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[s.FlushStreamingOnExit:1]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[gc.FlushStreamingOnGC:0]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[gc.AllowParallelGC:1]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[gc.TimeBetweenPurgingPendingKillObjects:30.000000]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[gc.CreateGCClusters:1]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[gc.MinGCClusterSize:5]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[gc.AssetClustreringEnabled:0]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[gc.ActorClusteringEnabled:0]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[gc.UseDisregardForGCOnDedicatedServers:1]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[gc.VerifyUObjectsAreNotFGCObjects:0]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[gc.GarbageEliminationEnabled:1]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2024.11.05-00.58.17:041][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.ViewDistanceScale:1.0]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.FXAA.Quality:4]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.TSR.History.R11G11B10:1]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:200]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.TSR.Resurrection:1]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.LightFunctionQuality:1]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.Shadow.MaxResolution:2048]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.11.05-00.58.17:041][  0]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.CapsuleShadows:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:4096]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.DistanceFieldAO:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.AOQuality:2]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:4]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:4]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:300]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:8]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ShortRangeAO.HardwareRayTracing:0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:3]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:8]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:200]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.EyeAdaptationQuality:2]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.TonemapperGamma:2]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.SSAO:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.LumenScene.SurfaceCache.CardCaptureRefreshFraction:0.125]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.SSR.Quality:3]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.4]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.TonemapStrength:0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.MotionBlurQuality:0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.BloomQuality:3]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:2         ; lower gathering resolution]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Streaming.Boost:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Streaming.PoolSize:1000]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.DetailMode:3]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.SSGI.Quality:3]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[fx.Niagara.QualityLevel:3]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.Refraction.OffsetQuality:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Applying CVar settings from Section [LandscapeQuality@3] File [Scalability]
+[2024.11.05-00.58.17:042][  0]LogInit: Selected Device Profile: [WindowsServer]
+[2024.11.05-00.58.17:042][  0]LogHAL: Display: Platform has ~ 71 GB [75758358528 / 137438953472 / 71], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.11.05-00.58.17:042][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2024.11.05-00.58.17:042][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.11.05-00.58.17:042][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[memory.MemoryPressureCriticalThresholdMB:512]]
+[2024.11.05-00.58.17:042][  0]LogConfig: Set CVar [[net.AllowEncryption:0]]
+[2024.11.05-00.58.17:042][  0]LogInit: Computer: ACD41858A633
+[2024.11.05-00.58.17:042][  0]LogInit: User: root
+[2024.11.05-00.58.17:042][  0]LogInit: CPU Page size=4096, Cores=12
+[2024.11.05-00.58.17:042][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.11.05-00.58.17:042][  0]LogWindows: Error connecting to storage service [error code 8004100e]
+[2024.11.05-00.58.17:042][  0]LogMemory: Memory total: Physical=70.6GB (71GB approx) Virtual=70.6GB
+[2024.11.05-00.58.17:042][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2024.11.05-00.58.17:042][  0]LogMemory: Process Physical Memory: 442.78 MB used, 442.78 MB peak
+[2024.11.05-00.58.17:042][  0]LogMemory: Process Virtual Memory: 418.45 MB used, 418.45 MB peak
+[2024.11.05-00.58.17:043][  0]LogMemory: Physical Memory: 45614.91 MB used,  26633.89 MB free, 72248.80 MB total
+[2024.11.05-00.58.17:043][  0]LogMemory: Virtual Memory: 45502.67 MB used,  26746.14 MB free, 72248.80 MB total
+[2024.11.05-00.58.17:050][  0]LogWindows: WindowsPlatformFeatures disabled or dedicated server build
+[2024.11.05-00.58.17:050][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2024.11.05-00.58.17:051][  0]LogInit: Using OS detected language (en-US-POSIX).
+[2024.11.05-00.58.17:051][  0]LogInit: Using OS detected locale (en-US-POSIX).
+[2024.11.05-00.58.17:051][  0]LogTextLocalizationManager: No specific localization for 'en-US-POSIX' exists, so 'en' will be used for the language.
+[2024.11.05-00.58.17:061][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.11.05-00.58.17:066][  0]LogRendererCore: Ray tracing is disabled. Reason: disabled through project setting (r.RayTracing=0).
+[2024.11.05-00.58.17:071][  0]LogInit: Using OS detected language (en-US-POSIX).
+[2024.11.05-00.58.17:071][  0]LogInit: Using OS detected locale (en-US-POSIX).
+[2024.11.05-00.58.17:071][  0]LogTextLocalizationManager: No specific localization for 'en-US-POSIX' exists, so 'en' will be used for the language.
+[2024.11.05-00.58.17:071][  0]LogAssetRegistry: FAssetRegistry took 0.0001 seconds to start up
+[2024.11.05-00.58.17:145][  0]LogDeviceProfileManager: Active device profile: [000000002257CB80][00000000095F9250 66] WindowsServer
+[2024.11.05-00.58.17:148][  0]LogTextureEncodingSettings: Display: Texture Encode Speed: Final (cook).
+[2024.11.05-00.58.17:148][  0]LogTextureEncodingSettings: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2024.11.05-00.58.17:148][  0]LogTextureEncodingSettings: Display: Shared linear texture encoding: Disabled
+[2024.11.05-00.58.17:159][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.11.05-00.58.17:159][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.11.05-00.58.17:163][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2024.11.05-00.58.17:173][  0]LogPackageLocalizationCache: Processed 60 localized package path(s) for 1 prioritized culture(s) in 0.000124 seconds
+[2024.11.05-00.58.17:173][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=128, MaxUdp=1024
+[2024.11.05-00.58.17:174][  0]LogAutoSettings: AutoSettings module starting up
+[2024.11.05-00.58.17:174][  0]LogAutoSettingsInput: AutoSettingsInput module starting up
+[2024.11.05-00.58.17:174][  0]LogGameAnalyticsAnalytics: Display: FAnalyticsGameAnalytics Constructor
+[2024.11.05-00.58.17:187][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.11.05-00.58.17:188][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2024.11.05-00.58.17:188][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.11.05-00.58.17:193][  0]LogUObjectArray: 28684 objects as part of root set at end of initial load.
+[2024.11.05-00.58.17:193][  0]LogUObjectArray: 10 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2024.11.05-00.58.17:193][  0]LogUObjectAllocator: 5793696 out of 0 bytes used by permanent object pool.
+[2024.11.05-00.58.17:193][  0]LogUObjectArray: CloseDisregardForGC: 28684/28684 objects in disregard for GC pool
+[2024.11.05-00.58.17:193][  0]LogEngine: Initializing Engine...
+[2024.11.05-00.58.17:197][  0]LogAssetManager: Display: Ignoring PrimaryAssetType PlayerCharacterVoice - Conflicts with PlayerCharacterVoiceDataAsset - Asset: PlayerCharacterVoice_FemaleA
+[2024.11.05-00.58.17:198][  0]LogNetVersion: Set ProjectVersion to 0.9.2.12333-Shipping. Version Checksum will be recalculated on next use.
+[2024.11.05-00.58.17:198][  0]LogInit: Texture streaming: Disabled
+[2024.11.05-00.58.17:385][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/StringTables/StringTable_Locations.StringTable_Locations' 'vignette_anteverse_c'. Did you forget to add a string table redirector?
+[2024.11.05-00.58.17:385][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/StringTables/StringTable_Locations.StringTable_Locations' 'vignette_southisland'. Did you forget to add a string table redirector?
+[2024.11.05-00.58.17:385][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/StringTables/StringTable_Locations.StringTable_Locations' 'vignette_shadowgate'. Did you forget to add a string table redirector?
+[2024.11.05-00.58.17:385][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/StringTables/StringTable_Locations.StringTable_Locations' 'vignette_thewall'. Did you forget to add a string table redirector?
+[2024.11.05-00.58.17:656][  0]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.05-00.58.17:660][  0]LogNiagara: UAV Float16 is not supported, compressed GPU emitters will be disabled.
+[2024.11.05-00.58.17:661][  0]r.AntiAliasingMethod = "4"
+[2024.11.05-00.58.17:661][  0]LogPackageLocalizationCache: Processed 60 localized package path(s) for 1 prioritized culture(s) in 0.000063 seconds
+[2024.11.05-00.58.17:661][  0]bp.ScriptRecurseLimit = "1200"
+[2024.11.05-00.58.17:661][  0]LogAbioticRemoteConsole: Warning: Remote console through HTTPS is explicitly disabled.
+[2024.11.05-00.58.17:661][  0]LogAbiotic: Display: WorldSaveName set from param: Oblivion
+[2024.11.05-00.58.17:661][  0]LogInit: Display: Game Engine Initialized.
+[2024.11.05-00.58.17:661][  0]LogAutoSettings: Applying initial settings from config
+[2024.11.05-00.58.17:661][  0]LogAutoSettings: Applied 0 settings from config
+[2024.11.05-00.58.17:662][  0]LogInit: Display: Starting Game.
+[2024.11.05-00.58.17:662][  0]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/ServerEntry?Name=Player"
+[2024.11.05-00.58.17:662][  0]LogNet: Browse: /Game/Maps/ServerEntry?Name=Player
+[2024.11.05-00.58.17:662][  0]LogLoad: LoadMap: /Game/Maps/ServerEntry?Name=Player
+[2024.11.05-00.58.17:662][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2024.11.05-00.58.17:662][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.11.05-00.58.17:670][  0]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.05-00.58.17:670][  0]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.05-00.58.17:678][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.11.05-00.58.17:682][  0]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.05-00.58.17:690][  0]LogLoad: Game class is 'ServerEntryGameMode_C'
+[2024.11.05-00.58.17:690][  0]LogWorld: Bringing World /Game/Maps/ServerEntry.ServerEntry up for play (max tick rate 0) at 2024.11.05-00.58.17
+[2024.11.05-00.58.17:690][  0]LogWorld: Bringing up level for play took: 0.000137
+[2024.11.05-00.58.17:690][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.11.05-00.58.17:691][  0]LogAbiotic: Display: Steam Sockets Initialized!
+[2024.11.05-00.58.17:691][  0]LogAbiotic: Display: Dedicated Server entered ServerEntry, checking world save for corruption
+[2024.11.05-00.58.17:691][  0]LogAbiotic: Display: World save: Oblivion
+[2024.11.05-00.58.17:691][  0]LogWorldEntryItem: GetWorldEntries count: 1
+[2024.11.05-00.58.17:691][  0]LogWorldEntryItem: GetWorldEntries: Oblivion
+[2024.11.05-00.58.17:691][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_Facility
+[2024.11.05-00.58.17:719][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_Facility_MFFoundry
+[2024.11.05-00.58.17:719][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_Facility_MFHQ
+[2024.11.05-00.58.17:720][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_Facility_MFMines
+[2024.11.05-00.58.17:720][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_Facility_MFWest
+[2024.11.05-00.58.17:736][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_Facility_Office1
+[2024.11.05-00.58.17:745][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_Facility_Office2
+[2024.11.05-00.58.17:785][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_Facility_Office3
+[2024.11.05-00.58.17:814][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_Facility_Office4
+[2024.11.05-00.58.17:815][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_MetaData
+[2024.11.05-00.58.17:815][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_V_Anteverse_A
+[2024.11.05-00.58.17:815][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_V_FOG
+[2024.11.05-00.58.17:815][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/PlayerData/Player_76561197969472572
+[2024.11.05-00.58.17:818][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/PlayerData/Player_76561199036446150
+[2024.11.05-00.58.17:820][  0]LogAbiotic: Display: World save Integrity State: Playable
+[2024.11.05-00.58.17:820][  0]LogAbiotic: Display: Dedicated Server is now loading the main map
+[2024.11.05-00.58.17:820][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.11.05-00.58.17:820][  0]LogLoad: Took 0.158380 seconds to LoadMap(/Game/Maps/ServerEntry)
+[2024.11.05-00.58.17:820][  0]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/ServerEntry
+[2024.11.05-00.58.17:825][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.11.05-00.58.17:825][  0]LogLoad: (Engine Initialization) Total time: 1.17 seconds
+[2024.11.05-00.58.18:120][  0]LogGameMode: Display: Match State Changed from WaitingToStart to LeavingMap
+[2024.11.05-00.58.18:120][  0]LogGameState: Match State Changed from WaitingToStart to LeavingMap
+[2024.11.05-00.58.18:120][  0]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Facility?Listen?bPassthrough"
+[2024.11.05-00.58.18:120][  0]LogNet: Browse: /Game/Maps/Facility?Listen?bPassthrough
+[2024.11.05-00.58.18:120][  0]LogLoad: LoadMap: /Game/Maps/Facility?Listen?bPassthrough
+[2024.11.05-00.58.18:120][  0]LogWorld: BeginTearingDown for /Game/Maps/ServerEntry
+[2024.11.05-00.58.18:120][  0]LogWorld: UWorld::CleanupWorld for ServerEntry, bSessionEnded=true, bCleanupResources=true
+[2024.11.05-00.58.18:122][  0]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.05-00.58.18:122][  0]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.05-00.58.18:125][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.11.05-00.58.18:283][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/StringTables/StringTable_Objects.StringTable_Objects' 'object_keypad'. Did you forget to add a string table redirector?
+[2024.11.05-00.58.18:395][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:395][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:395][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:395][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:395][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:397][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:399][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:399][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:399][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:399][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:399][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:399][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:399][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:399][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:399][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:399][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:399][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:399][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:399][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:399][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:400][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:400][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:401][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:401][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:401][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:401][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:401][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:401][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:401][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:401][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:401][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:404][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:404][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:404][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:404][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:404][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:404][  0]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.11.05-00.58.18:428][  0]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.05-00.58.18:431][  0]LogLoad: Game class is 'Abiotic_Survival_GameMode_C'
+[2024.11.05-00.58.18:432][  0]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.11.05-00.58.18:432][  0]LogPushModel: PushModel HandleCreation is now enabled
+[2024.11.05-00.58.18:432][  0]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model AbioticReplicationGraph
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric NumConnections
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric Connections
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric GatherPrioritizeTimeMS
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric InPacketsClientAvg
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric InPacketsClientMax
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric NumberOfActiveActors
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric NumberOfFullyDormantActors
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric NumClientUpdateLevelVisibility
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric NumOpenChannels
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric NumReplicateActorCallsPerConAvg
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric NumSkippedObjectEmptyUpdates
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric NumTickingChannels
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric OutKBytes
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric OutNetGUIDKBytesSec
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric OutPacketsClientAvg
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric OutPacketsClientMax
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric ReplicateActorTimeMS
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric SatConnections
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric ServerReplicateActorTimeMS
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric SharedSerializationPropertyHit
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric SharedSerializationPropertyMiss
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric SharedSerializationRPCHit
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric SharedSerializationRPCMiss
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric OutgoingReliableMessageQueueMaxSize
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric IncomingReliableMessageQueueMaxSize
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric NumConnections
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric AvgPing
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric InBunches
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric InPackets
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric InPacketsClientPerSecondAvg
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric InPacketsClientPerSecondMax
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric InPacketsClientPerSecondMin
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric InPacketsLost
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric InRate
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric InRateClientAvg
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric InRateClientMax
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric InRateClientMin
+[2024.11.05-00.58.18:432][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric MaxPacketOverhead
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric MaxPing
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric MinPing
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric NumClients
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric Connections
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric OutBunches
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric OutPackets
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric OutPacketsClientPerSecondAvg
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric OutPacketsClientPerSecondMax
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric OutPacketsClientPerSecondMin
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric OutPacketsLost
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric OutRate
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric OutRateClientAvg
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric OutRateClientMax
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric OutRateClientMin
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric PingBucketInt0
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric PingBucketInt1
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric PingBucketInt2
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric PingBucketInt3
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric PingBucketInt4
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric PingBucketInt5
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric PingBucketInt6
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric PingBucketInt7
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric ClosedConnectionsDueToReliableBufferOverflow
+[2024.11.05-00.58.18:433][  0]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric AddedConnections
+[2024.11.05-00.58.18:433][  0]LogNet: Verbose: SteamSockets: Looking for a binding address that matches protocol SteamSocketsIP
+[2024.11.05-00.58.18:433][  0]LogNet: Verbose: SteamSockets: Looking at binding address [::]:0
+[2024.11.05-00.58.18:433][  0]LogNet: Verbose: SteamSockets: Picked this binding address.
+[2024.11.05-00.58.18:433][  0]PacketHandlerLog: Warning: PacketHandler encryption component is configured as DTLSHandlerComponent, but it won't be used because the cvar net.AllowEncryption is false.
+[2024.11.05-00.58.18:433][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.11.05-00.58.18:433][  0]LogSockets: SteamSockets: Now tracking socket 65536 for addr [::]:7787, has parent? 0
+[2024.11.05-00.58.18:433][  0]LogNet: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322 started listening on 7787
+[2024.11.05-00.58.18:518][  0]LogWorld: Bringing World /Game/Maps/Facility.Facility up for play (max tick rate 30) at 2024.11.05-00.58.18
+[2024.11.05-00.58.18:523][  0]LogWorld: Bringing up level for play took: 0.090422
+[2024.11.05-00.58.18:565][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.11.05-00.58.18:601][  0]LogAbiotic: Display: CHAT LOG:  Fog has crept in.
+[2024.11.05-00.58.18:729][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.11.05-00.58.18:729][  0]LogLoad: Took 0.608896 seconds to LoadMap(/Game/Maps/Facility)
+[2024.11.05-00.58.18:729][  0]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Facility
+[2024.11.05-00.58.18:730][  0]LogNet: NotifyActorRenamed StartupActor: DESTROYED_Vehicle_Seat_Tram_Wide_C_CHILDACTOR_2147481812 PreviousName: ChildActor_GEN_VARIABLE_Vehicle_Seat_Tram_Wide_C_CAT_4
+[2024.11.05-00.58.18:731][  0]LogNet: NotifyActorRenamed StartupActor: DESTROYED_Vehicle_Seat_Tram_Wide_C_CHILDACTOR_2147481811 PreviousName: ChildActor1_GEN_VARIABLE_Vehicle_Seat_Tram_Wide_C_CAT_5
+[2024.11.05-00.58.18:731][  0]LogNet: NotifyActorRenamed StartupActor: DESTROYED_Deployed_Container_TramStorage_C_CHILDACTOR_2147481810 PreviousName: Container_GEN_VARIABLE_Deployed_Container_TramStorage_C_CAT_2
+[2024.11.05-00.58.18:731][  0]LogNet: NotifyActorRenamed StartupActor: DESTROYED_Vehicle_Seat_Tram_Narrow_C_CHILDACTOR_2147481807 PreviousName: NarrowSeat_01_GEN_VARIABLE_Vehicle_Seat_Tram_Narrow_C_CAT_8
+[2024.11.05-00.58.18:731][  0]LogNet: NotifyActorRenamed StartupActor: DESTROYED_Vehicle_Seat_Tram_Narrow_C_CHILDACTOR_2147481806 PreviousName: NarrowSeat_02_GEN_VARIABLE_Vehicle_Seat_Tram_Narrow_C_CAT_10
+[2024.11.05-00.58.18:731][  0]LogNet: NotifyActorRenamed StartupActor: DESTROYED_Vehicle_Seat_Tram_Narrow_C_CHILDACTOR_2147481805 PreviousName: NarrowSeat_03_GEN_VARIABLE_Vehicle_Seat_Tram_Narrow_C_CAT_9
+[2024.11.05-00.58.18:731][  0]LogNet: NotifyActorRenamed StartupActor: DESTROYED_Vehicle_Seat_Tram_Narrow_C_CHILDACTOR_2147481804 PreviousName: NarrowSeat_04_GEN_VARIABLE_Vehicle_Seat_Tram_Narrow_C_CAT_11
+[2024.11.05-00.58.18:731][  0]LogNet: NotifyActorRenamed StartupActor: DESTROYED_Button_Tram_C_CHILDACTOR_2147481803 PreviousName: NegativeButton_GEN_VARIABLE_Button_Tram_C_CAT_1020
+[2024.11.05-00.58.18:731][  0]LogNet: NotifyActorRenamed StartupActor: DESTROYED_Button_Tram_C_CHILDACTOR_2147481802 PreviousName: PositiveButton_GEN_VARIABLE_Button_Tram_C_CAT_1019
+[2024.11.05-00.58.19:277][ 15]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerConnectedGS ServerId: Server[0x1407B7D4DF40403]
+[2024.11.05-00.58.19:486][ 21]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerPolicyResponseGS Secure: 0
+[2024.11.05-00.58.19:512][ 22]LogOnline: Verbose: OSS: Async task 'FOnlineAsyncTaskSteamCreateServer bWasSuccessful: 1' succeeded in 0.942405 seconds
+[2024.11.05-00.58.19:538][ 22]LogOnlineSession: Display: OSS: Session creation completed. Automatic start is turned on, starting session now.
+[2024.11.05-00.58.23:458][142]LogOnline: Verbose: OSS: Async task 'FOnlineAsyncTaskSteamUpdateServer bWasSuccessful: 1 Session: GameSession' succeeded in 0.006291 seconds
+[2024.11.05-01.03.18:528][101]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-01.10.11:286][637]LogNet: Verbose: NotifyAcceptingConnection: Server Facility accept
+[2024.11.05-01.10.11:286][637]LogSockets: SteamSockets: Now tracking socket 2709653884 for addr 76561199036446150:0, has parent? 1
+[2024.11.05-01.10.11:286][637]LogNet: SteamSocketsNetConnection_2147481762 setting maximum channels to: 32767
+[2024.11.05-01.10.11:287][637]PacketHandlerLog: Warning: PacketHandler encryption component is configured as DTLSHandlerComponent, but it won't be used because the cvar net.AllowEncryption is false.
+[2024.11.05-01.10.11:287][637]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.11.05-01.10.11:287][637]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from Invalid to LoggingIn
+[2024.11.05-01.10.11:287][637]LogNet: Verbose: UNetConnection::SetExpectedClientLoginMsgType: Type same: [0]Hello
+[2024.11.05-01.10.11:287][637]LogNet: NotifyAcceptedConnection: Name: Facility, TimeStamp: 11/05/24 01:10:11, [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147481762, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.11.05-01.10.11:287][637]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147481762, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.11.05-01.10.11:287][637]LogNet: SteamSockets: New connection (2709653884) over listening socket accepted 76561199036446150:0
+[2024.11.05-01.10.11:325][639]LogNet: Verbose: SteamSockets: Connection established with user with socket id: 2709653884
+[2024.11.05-01.10.12:274][667]LogNetVersion: AbioticFactor 0.9.2.12333-Shipping, NetCL: 0, EngineNetworkVersion: 34, GameNetworkVersion: 0 (Checksum: 101805632)
+[2024.11.05-01.10.12:307][668]LogNet: Verbose: InitSequence: IncomingSequence: 13282, OutgoingSequence: 2657, InitInReliable: 994, InitOutReliable: 609
+[2024.11.05-01.10.12:307][668]LogNet: SteamSockets: Connectionless handshake complete
+[2024.11.05-01.10.12:340][669]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/Facility.Facility: Accepted
+[2024.11.05-01.10.12:340][669]LogNet: Remote platform little endian=1
+[2024.11.05-01.10.12:340][669]LogNet: This platform little endian=1
+[2024.11.05-01.10.12:340][669]LogNet: Verbose: UNetConnection::SetExpectedClientLoginMsgType: Type changing from [0]Hello to [5]Login
+[2024.11.05-01.10.12:373][670]LogNet: Login request: ?Name=CostaDelMars??PW=qwerty?ConnectID=76561199036446150 userId: STEAM:UNKNOWN [0x1100001402535C6] platform: STEAM
+[2024.11.05-01.10.12:373][670]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from LoggingIn to Welcomed
+[2024.11.05-01.10.12:405][671]LogNet: Client netspeed is 640000
+[2024.11.05-01.10.13:426][702]LogNet: Join request: /Game/Maps/ServerEntry?Name=CostaDelMars??PW=qwerty?ConnectID=76561199036446150?SplitscreenCount=1
+[2024.11.05-01.10.13:429][702]LogAbiotic: Display: CHAT LOG:  CostaDelMars has entered the facility.
+[2024.11.05-01.10.13:429][702]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.11.05-01.10.13:436][702]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class FPArms_AnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.11.05-01.10.13:444][702]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.11.05-01.10.13:444][702]LogNet: Join succeeded: CostaDelMars
+[2024.11.05-01.10.13:444][702]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from Welcomed to ReceivedJoin
+[2024.11.05-01.10.13:466][703]LogGameplayTags: NetworkGameplayTagNodeIndexHash is 60a47650
+[2024.11.05-01.10.13:957][718]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147481735, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 14, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147481762, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147481746, Owner: Abiotic_PlayerController_C_2147481746, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.10.15:409][761]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147481735, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 14, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147481762, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147481746, Owner: Abiotic_PlayerController_C_2147481746, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.10.18:413][853]LogOnline: Verbose: OSS: Async task 'FOnlineAsyncTaskSteamUpdateServer bWasSuccessful: 1 Session: GameSession' succeeded in 0.008394 seconds
+[2024.11.05-01.10.20:454][914]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Container_TraderStorage_C /Game/Maps/Facility_MFWest.Facility_MFWest:PersistentLevel.StorageContainer_GEN_VARIABLE_Container_TraderStorage_C_CAT_0, Role: 3, RemoteRole: 1 [UChannel] ChIndex: 504, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147481762, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147481746, Owner: Abiotic_PlayerController_C_2147481746, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.14.27:691][423]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEnd Owner:/Game/Blueprints/Environment/Effects/WorldFlagFX_Monitor.WorldFlagFX_Monitor_C:Niagara_GEN_VARIABLE
+[2024.11.05-01.14.27:793][426]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEnd Owner:/Game/Maps/Facility_MFFoundry.Facility_MFFoundry:PersistentLevel.WorldFlagFX_MFMonitor_C_3.Niagara
+[2024.11.05-01.14.27:793][426]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEnd Owner:/Game/Maps/Facility_MFFoundry.Facility_MFFoundry:PersistentLevel.WorldFlagFX_MFMonitor_C_4.Niagara
+[2024.11.05-01.14.27:793][426]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEnd Owner:/Game/Maps/Facility_MFFoundry.Facility_MFFoundry:PersistentLevel.WorldFlagFX_MFMonitor_C_5.Niagara
+[2024.11.05-01.14.33:714][606]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Container_TraderStorage_C /Game/Maps/Facility_Office1.Facility_Office1:PersistentLevel.StorageContainer_GEN_VARIABLE_Container_TraderStorage_C_CAT_46, Role: 3, RemoteRole: 1 [UChannel] ChIndex: 632, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147481762, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147481746, Owner: Abiotic_PlayerController_C_2147481746, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.14.34:974][643]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2024.11.05-01.14.35:919][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.11.05-01.14.39:988][795]LogNiagara: Warning: UNiagaraFunctionLibrary::OverrideSystemUserVariableSkeletalMeshComponent: Did not find a matching Skeletal Mesh Data Interface variable named "" in the User variables of NiagaraSystem "NiagaraComponent /Game/Maps/Facility.Facility:PersistentLevel.NPC_Monster_Symphonist_C_2147479645.DissolveParticle" .
+[2024.11.05-01.14.47:624][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.11.05-01.15.18:641][966]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-01.17.22:816][722]LogNet: Verbose: NotifyAcceptingConnection: Server Facility accept
+[2024.11.05-01.17.22:817][722]LogSockets: SteamSockets: Now tracking socket 1380869928 for addr 76561197969472572:0, has parent? 1
+[2024.11.05-01.17.22:817][722]LogNet: SteamSocketsNetConnection_2147479445 setting maximum channels to: 32767
+[2024.11.05-01.17.22:818][722]PacketHandlerLog: Warning: PacketHandler encryption component is configured as DTLSHandlerComponent, but it won't be used because the cvar net.AllowEncryption is false.
+[2024.11.05-01.17.22:818][722]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.11.05-01.17.22:818][722]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from Invalid to LoggingIn
+[2024.11.05-01.17.22:818][722]LogNet: Verbose: UNetConnection::SetExpectedClientLoginMsgType: Type same: [0]Hello
+[2024.11.05-01.17.22:818][722]LogNet: NotifyAcceptedConnection: Name: Facility, TimeStamp: 11/05/24 01:17:22, [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147479445, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.11.05-01.17.22:818][722]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147479445, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.11.05-01.17.22:818][722]LogNet: SteamSockets: New connection (1380869928) over listening socket accepted 76561197969472572:0
+[2024.11.05-01.17.22:845][724]LogNet: Verbose: SteamSockets: Connection established with user with socket id: 1380869928
+[2024.11.05-01.17.23:795][752]LogNet: Verbose: InitSequence: IncomingSequence: 6021, OutgoingSequence: 13109, InitInReliable: 901, InitOutReliable: 821
+[2024.11.05-01.17.23:795][752]LogNet: SteamSockets: Connectionless handshake complete
+[2024.11.05-01.17.23:830][753]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/Facility.Facility: Accepted
+[2024.11.05-01.17.23:830][753]LogNet: Remote platform little endian=1
+[2024.11.05-01.17.23:830][753]LogNet: This platform little endian=1
+[2024.11.05-01.17.23:830][753]LogNet: Verbose: UNetConnection::SetExpectedClientLoginMsgType: Type changing from [0]Hello to [5]Login
+[2024.11.05-01.17.23:862][754]LogNet: Login request: ?Name=conceptxo??PW=qwerty?ConnectID=76561197969472572 userId: STEAM:UNKNOWN [0x1100001008C7C3C] platform: STEAM
+[2024.11.05-01.17.23:862][754]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from LoggingIn to Welcomed
+[2024.11.05-01.17.23:897][755]LogNet: Client netspeed is 640000
+[2024.11.05-01.17.24:883][785]LogNet: Join request: /Game/Maps/ServerEntry?Name=conceptxo??PW=qwerty?ConnectID=76561197969472572?SplitscreenCount=1
+[2024.11.05-01.17.24:886][785]LogAbiotic: Display: CHAT LOG:  conceptxo has entered the facility.
+[2024.11.05-01.17.24:894][785]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class FPArms_AnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.11.05-01.17.24:901][785]LogNet: Join succeeded: conceptxo
+[2024.11.05-01.17.24:901][785]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from Welcomed to ReceivedJoin
+[2024.11.05-01.17.25:674][809]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147479425, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 4, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147479445, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147479435, Owner: Abiotic_PlayerController_C_2147479435, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-01.17.26:629][837]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147479425, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 4, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147479445, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147479435, Owner: Abiotic_PlayerController_C_2147479435, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-01.17.29:875][936]LogOnline: Verbose: OSS: Async task 'FOnlineAsyncTaskSteamUpdateServer bWasSuccessful: 1 Session: GameSession' succeeded in 0.011406 seconds
+[2024.11.05-01.17.30:799][963]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Container_TraderStorage_C /Game/Maps/Facility_MFWest.Facility_MFWest:PersistentLevel.StorageContainer_GEN_VARIABLE_Container_TraderStorage_C_CAT_0, Role: 3, RemoteRole: 1 [UChannel] ChIndex: 517, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147479445, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147479435, Owner: Abiotic_PlayerController_C_2147479435, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-01.20.18:825][ 47]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-01.20.47:525][920]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147481735, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 382, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147479445, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147479435, Owner: Abiotic_PlayerController_C_2147479435, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-01.20.47:824][929]LogNiagara: Warning: UNiagaraFunctionLibrary::OverrideSystemUserVariableSkeletalMeshComponent: Did not find a matching Skeletal Mesh Data Interface variable named "" in the User variables of NiagaraSystem "NiagaraComponent /Game/Maps/Facility.Facility:PersistentLevel.NPC_Monster_Symphonist_C_2147477861.DissolveParticle" .
+[2024.11.05-01.20.47:963][933]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147479425, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 196, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147481762, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147481746, Owner: Abiotic_PlayerController_C_2147481746, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.20.58:940][267]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEnd Owner:/Game/Blueprints/Environment/Effects/WorldFlagFX_Monitor.WorldFlagFX_Monitor_C:Niagara_GEN_VARIABLE
+[2024.11.05-01.20.59:235][276]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEnd Owner:/Game/Maps/Facility_MFFoundry.Facility_MFFoundry:PersistentLevel.WorldFlagFX_MFMonitor_C_3.Niagara
+[2024.11.05-01.20.59:235][276]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEnd Owner:/Game/Maps/Facility_MFFoundry.Facility_MFFoundry:PersistentLevel.WorldFlagFX_MFMonitor_C_4.Niagara
+[2024.11.05-01.20.59:235][276]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEnd Owner:/Game/Maps/Facility_MFFoundry.Facility_MFFoundry:PersistentLevel.WorldFlagFX_MFMonitor_C_5.Niagara
+[2024.11.05-01.21.06:206][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2024.11.05-01.21.06:958][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.11.05-01.21.07:057][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.11.05-01.21.14:239][731]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Container_TraderStorage_C /Game/Maps/Facility_MFWest.Facility_MFWest:PersistentLevel.StorageContainer_GEN_VARIABLE_Container_TraderStorage_C_CAT_0, Role: 3, RemoteRole: 1 [UChannel] ChIndex: 254, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147481762, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147481746, Owner: Abiotic_PlayerController_C_2147481746, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.25.18:866][129]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-01.25.31:434][511]LogNiagara: Warning: UNiagaraFunctionLibrary::OverrideSystemUserVariableSkeletalMeshComponent: Did not find a matching Skeletal Mesh Data Interface variable named "" in the User variables of NiagaraSystem "NiagaraComponent /Game/Maps/Facility.Facility:PersistentLevel.NPC_Monster_Symphonist_C_2147476729.DissolveParticle" .
+[2024.11.05-01.26.10:302][692]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Container_TraderStorage_C /Game/Maps/Facility_Office1.Facility_Office1:PersistentLevel.StorageContainer_GEN_VARIABLE_Container_TraderStorage_C_CAT_46, Role: 3, RemoteRole: 1 [UChannel] ChIndex: 190, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147481762, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147481746, Owner: Abiotic_PlayerController_C_2147481746, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.26.20:081][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2024.11.05-01.26.37:588][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2024.11.05-01.27.02:004][257]LogNiagara: Warning: UNiagaraFunctionLibrary::OverrideSystemUserVariableSkeletalMeshComponent: Did not find a matching Skeletal Mesh Data Interface variable named "" in the User variables of NiagaraSystem "NiagaraComponent /Game/Maps/Facility.Facility:PersistentLevel.NPC_Monster_Symphonist_C_2147475658.DissolveParticle" .
+[2024.11.05-01.27.02:334][267]LogNiagara: Warning: UNiagaraFunctionLibrary::OverrideSystemUserVariableSkeletalMeshComponent: Did not find a matching Skeletal Mesh Data Interface variable named "" in the User variables of NiagaraSystem "NiagaraComponent /Game/Maps/Facility.Facility:PersistentLevel.NPC_Monster_Symphonist_C_2147475630.DissolveParticle" .
+[2024.11.05-01.27.04:931][342]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.27.04:931][342]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.27.04:932][342]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.27.04:932][342]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.27.04:985][342]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2024.11.05-01.27.29:591][ 86]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147479425, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 49, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147481762, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147481746, Owner: Abiotic_PlayerController_C_2147481746, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.27.29:668][ 88]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147481735, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 403, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147479445, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147479435, Owner: Abiotic_PlayerController_C_2147479435, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-01.28.05:822][181]LogNiagara: Warning: UNiagaraFunctionLibrary::OverrideSystemUserVariableSkeletalMeshComponent: Did not find a matching Skeletal Mesh Data Interface variable named "" in the User variables of NiagaraSystem "NiagaraComponent /Game/Maps/Facility.Facility:PersistentLevel.BP_Mirage_Symphonist_C_2147475345.DissolveParticle" .
+[2024.11.05-01.28.05:822][181]LogNiagara: Warning: UNiagaraFunctionLibrary::OverrideSystemUserVariableSkeletalMeshComponent: Did not find a matching Skeletal Mesh Data Interface variable named "" in the User variables of NiagaraSystem "NiagaraComponent /Game/Maps/Facility.Facility:PersistentLevel.BP_Mirage_Symphonist_C_2147475331.DissolveParticle" .
+[2024.11.05-01.28.05:822][181]LogNiagara: Warning: UNiagaraFunctionLibrary::OverrideSystemUserVariableSkeletalMeshComponent: Did not find a matching Skeletal Mesh Data Interface variable named "" in the User variables of NiagaraSystem "NiagaraComponent /Game/Maps/Facility.Facility:PersistentLevel.BP_Mirage_Symphonist_C_2147475317.DissolveParticle" .
+[2024.11.05-01.28.23:521][718]LogAbiotic: Display: Creating save backup for: Oblivion
+[2024.11.05-01.28.23:531][718]LogAbiotic: Display: Found index 5 to use as backup for save Oblivion, beginning now...
+[2024.11.05-01.28.23:531][718]LogAbiotic: Display: Existing backup found, deleting: Z:/server/AbioticFactor/Saved/SaveGames/Server/Backups/Oblivion/5
+[2024.11.05-01.28.23:533][718]LogAbiotic: Display: Copying directory tree: Z:/server/AbioticFactor/Saved/SaveGames/Server/Backups/Oblivion/5 Z:/server/AbioticFactor/Saved/SaveGames/Server/Worlds/Oblivion
+[2024.11.05-01.28.33:018][  6]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147479425, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 49, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147481762, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147481746, Owner: Abiotic_PlayerController_C_2147481746, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.28.33:072][  8]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147481735, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 467, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147479445, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147479435, Owner: Abiotic_PlayerController_C_2147479435, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-01.28.34:460][ 50]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147481735, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 467, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147479445, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147479435, Owner: Abiotic_PlayerController_C_2147479435, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-01.28.34:609][ 54]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147479425, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 49, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147481762, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147481746, Owner: Abiotic_PlayerController_C_2147481746, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.28.44:391][352]LogNiagara: Warning: UNiagaraFunctionLibrary::OverrideSystemUserVariableSkeletalMeshComponent: Did not find a matching Skeletal Mesh Data Interface variable named "" in the User variables of NiagaraSystem "NiagaraComponent /Game/Maps/Facility.Facility:PersistentLevel.BP_Mirage_Symphonist_C_2147475091.DissolveParticle" .
+[2024.11.05-01.28.44:394][352]LogNiagara: Warning: UNiagaraFunctionLibrary::OverrideSystemUserVariableSkeletalMeshComponent: Did not find a matching Skeletal Mesh Data Interface variable named "" in the User variables of NiagaraSystem "NiagaraComponent /Game/Maps/Facility.Facility:PersistentLevel.BP_Mirage_Symphonist_C_2147475077.DissolveParticle" .
+[2024.11.05-01.28.44:396][352]LogNiagara: Warning: UNiagaraFunctionLibrary::OverrideSystemUserVariableSkeletalMeshComponent: Did not find a matching Skeletal Mesh Data Interface variable named "" in the User variables of NiagaraSystem "NiagaraComponent /Game/Maps/Facility.Facility:PersistentLevel.BP_Mirage_Symphonist_C_2147475063.DissolveParticle" .
+[2024.11.05-01.28.50:193][528]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147479425, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 180, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147481762, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147481746, Owner: Abiotic_PlayerController_C_2147481746, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.28.50:260][530]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147481735, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 514, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147479445, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147479435, Owner: Abiotic_PlayerController_C_2147479435, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-01.28.52:155][588]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147479425, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 86, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147481762, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147481746, Owner: Abiotic_PlayerController_C_2147481746, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.28.52:227][590]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147481735, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 495, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147479445, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147479435, Owner: Abiotic_PlayerController_C_2147479435, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-01.28.54:425][657]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147479425, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 203, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147481762, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147481746, Owner: Abiotic_PlayerController_C_2147481746, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.28.54:502][659]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147481735, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 495, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147479445, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147479435, Owner: Abiotic_PlayerController_C_2147479435, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-01.29.18:779][397]LogNiagara: Warning: UNiagaraFunctionLibrary::OverrideSystemUserVariableSkeletalMeshComponent: Did not find a matching Skeletal Mesh Data Interface variable named "" in the User variables of NiagaraSystem "NiagaraComponent /Game/Maps/Facility.Facility:PersistentLevel.BP_Mirage_Symphonist_C_2147474875.DissolveParticle" .
+[2024.11.05-01.29.18:780][397]LogNiagara: Warning: UNiagaraFunctionLibrary::OverrideSystemUserVariableSkeletalMeshComponent: Did not find a matching Skeletal Mesh Data Interface variable named "" in the User variables of NiagaraSystem "NiagaraComponent /Game/Maps/Facility.Facility:PersistentLevel.BP_Mirage_Symphonist_C_2147474861.DissolveParticle" .
+[2024.11.05-01.29.18:780][397]LogNiagara: Warning: UNiagaraFunctionLibrary::OverrideSystemUserVariableSkeletalMeshComponent: Did not find a matching Skeletal Mesh Data Interface variable named "" in the User variables of NiagaraSystem "NiagaraComponent /Game/Maps/Facility.Facility:PersistentLevel.BP_Mirage_Symphonist_C_2147474847.DissolveParticle" .
+[2024.11.05-01.29.37:210][957]LogAbiotic: Display: CHAT LOG: CostaDelMars was sliced into bits.
+[2024.11.05-01.30.02:489][724]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.30.02:489][724]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.30.02:533][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.11.05-01.30.19:170][226]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-01.31.01:910][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.11.05-01.31.03:864][584]LogNet: Warning: SteamSockets: LowLevelSend: Could not send 23 bytes of data got error 0
+[2024.11.05-01.31.03:865][584]LogNet: Verbose: SteamSockets: Connection dropped with user with socket id: 2709653884
+[2024.11.05-01.31.03:893][585]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147481762, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147481746, Owner: Abiotic_PlayerController_C_2147481746, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.31.03:896][585]LogAbiotic: Display: CHAT LOG:  CostaDelMars has exited the facility.
+[2024.11.05-01.31.03:896][585]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from ReceivedJoin to CleanedUp
+[2024.11.05-01.31.08:873][737]LogOnline: Verbose: OSS: Async task 'FOnlineAsyncTaskSteamUpdateServer bWasSuccessful: 1 Session: GameSession' succeeded in 0.008141 seconds
+[2024.11.05-01.31.31:921][437]LogNet: Verbose: UNetConnection::SetClientLoginState: State same: CleanedUp
+[2024.11.05-01.31.32:617][458]LogNiagara: Warning: UNiagaraFunctionLibrary::OverrideSystemUserVariableSkeletalMeshComponent: Did not find a matching Skeletal Mesh Data Interface variable named "" in the User variables of NiagaraSystem "NiagaraComponent /Game/Maps/Facility.Facility:PersistentLevel.NPC_Monster_Symphonist_C_2147474169.DissolveParticle" .
+[2024.11.05-01.31.38:116][625]LogNet: Verbose: NotifyAcceptingConnection: Server Facility accept
+[2024.11.05-01.31.38:118][625]LogSockets: SteamSockets: Now tracking socket 1124901405 for addr 76561199036446150:0, has parent? 1
+[2024.11.05-01.31.38:118][625]LogNet: SteamSocketsNetConnection_2147474131 setting maximum channels to: 32767
+[2024.11.05-01.31.38:119][625]PacketHandlerLog: Warning: PacketHandler encryption component is configured as DTLSHandlerComponent, but it won't be used because the cvar net.AllowEncryption is false.
+[2024.11.05-01.31.38:119][625]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.11.05-01.31.38:120][625]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from Invalid to LoggingIn
+[2024.11.05-01.31.38:120][625]LogNet: Verbose: UNetConnection::SetExpectedClientLoginMsgType: Type same: [0]Hello
+[2024.11.05-01.31.38:120][625]LogNet: NotifyAcceptedConnection: Name: Facility, TimeStamp: 11/05/24 01:31:38, [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147474131, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.11.05-01.31.38:120][625]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147474131, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.11.05-01.31.38:120][626]LogNet: SteamSockets: New connection (1124901405) over listening socket accepted 76561199036446150:0
+[2024.11.05-01.31.38:153][627]LogNet: Verbose: SteamSockets: Connection established with user with socket id: 1124901405
+[2024.11.05-01.31.39:124][656]LogNet: Verbose: InitSequence: IncomingSequence: 6767, OutgoingSequence: 4996, InitInReliable: 623, InitOutReliable: 900
+[2024.11.05-01.31.39:124][656]LogNet: SteamSockets: Connectionless handshake complete
+[2024.11.05-01.31.39:157][657]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/Facility.Facility: Accepted
+[2024.11.05-01.31.39:157][657]LogNet: Remote platform little endian=1
+[2024.11.05-01.31.39:157][657]LogNet: This platform little endian=1
+[2024.11.05-01.31.39:157][657]LogNet: Verbose: UNetConnection::SetExpectedClientLoginMsgType: Type changing from [0]Hello to [5]Login
+[2024.11.05-01.31.39:189][658]LogNet: Login request: ?Name=CostaDelMars??PW=qwerty?ConnectID=76561199036446150 userId: STEAM:UNKNOWN [0x1100001402535C6] platform: STEAM
+[2024.11.05-01.31.39:189][658]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from LoggingIn to Welcomed
+[2024.11.05-01.31.39:783][676]LogNet: Client netspeed is 640000
+[2024.11.05-01.31.39:783][676]LogNet: Join request: /Game/Maps/ServerEntry?Name=CostaDelMars??PW=qwerty?ConnectID=76561199036446150?SplitscreenCount=1
+[2024.11.05-01.31.39:786][676]LogAbiotic: Display: CHAT LOG:  CostaDelMars has entered the facility.
+[2024.11.05-01.31.39:795][676]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class FPArms_AnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.11.05-01.31.39:807][676]LogNet: Join succeeded: CostaDelMars
+[2024.11.05-01.31.39:807][676]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from Welcomed to ReceivedJoin
+[2024.11.05-01.31.40:759][705]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147474111, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 4, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147474131, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147474121, Owner: Abiotic_PlayerController_C_2147474121, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.31.41:074][714]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147474111, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 29, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147479445, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147479435, Owner: Abiotic_PlayerController_C_2147479435, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-01.31.41:777][734]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147474111, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 4, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147474131, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147474121, Owner: Abiotic_PlayerController_C_2147474121, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.31.41:944][739]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147479425, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 48, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147474131, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147474121, Owner: Abiotic_PlayerController_C_2147474121, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.31.44:771][826]LogOnline: Verbose: OSS: Async task 'FOnlineAsyncTaskSteamUpdateServer bWasSuccessful: 1 Session: GameSession' succeeded in 0.010437 seconds
+[2024.11.05-01.31.58:091][230]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Container_TraderStorage_C /Game/Maps/Facility_Office1.Facility_Office1:PersistentLevel.StorageContainer_GEN_VARIABLE_Container_TraderStorage_C_CAT_46, Role: 3, RemoteRole: 1 [UChannel] ChIndex: 283, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147474131, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147474121, Owner: Abiotic_PlayerController_C_2147474121, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.32.08:748][554]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.32.08:748][554]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.32.08:748][554]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.32.08:748][554]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.32.08:774][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.11.05-01.32.20:758][918]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.32.20:758][918]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.32.20:804][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2024.11.05-01.32.39:639][491]LogAbiotic: Display: CHAT LOG: CostaDelMars was skewered by something wild.
+[2024.11.05-01.32.43:763][616]LogNet: Warning: SteamSockets: LowLevelSend: Could not send 26 bytes of data got error 0
+[2024.11.05-01.32.43:763][616]LogNet: Verbose: SteamSockets: Connection dropped with user with socket id: 1124901405
+[2024.11.05-01.32.43:780][617]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147474131, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147474121, Owner: Abiotic_PlayerController_C_2147474121, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.32.43:781][617]LogAbiotic: Display: CHAT LOG:  CostaDelMars has exited the facility.
+[2024.11.05-01.32.43:781][617]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from ReceivedJoin to CleanedUp
+[2024.11.05-01.32.48:792][770]LogOnline: Verbose: OSS: Async task 'FOnlineAsyncTaskSteamUpdateServer bWasSuccessful: 1 Session: GameSession' succeeded in 0.010939 seconds
+[2024.11.05-01.32.49:632][795]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.32.49:633][795]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.32.49:633][795]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.32.49:633][795]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.32.49:663][795]LogNet: Verbose: UNetConnection::SetClientLoginState: State same: CleanedUp
+[2024.11.05-01.32.49:676][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.11.05-01.33.16:467][610]LogNet: Verbose: NotifyAcceptingConnection: Server Facility accept
+[2024.11.05-01.33.16:467][610]LogSockets: SteamSockets: Now tracking socket 1749060095 for addr 76561199036446150:0, has parent? 1
+[2024.11.05-01.33.16:467][610]LogNet: SteamSocketsNetConnection_2147473298 setting maximum channels to: 32767
+[2024.11.05-01.33.16:467][610]PacketHandlerLog: Warning: PacketHandler encryption component is configured as DTLSHandlerComponent, but it won't be used because the cvar net.AllowEncryption is false.
+[2024.11.05-01.33.16:467][610]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.11.05-01.33.16:467][610]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from Invalid to LoggingIn
+[2024.11.05-01.33.16:467][610]LogNet: Verbose: UNetConnection::SetExpectedClientLoginMsgType: Type same: [0]Hello
+[2024.11.05-01.33.16:467][610]LogNet: NotifyAcceptedConnection: Name: Facility, TimeStamp: 11/05/24 01:33:16, [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147473298, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.11.05-01.33.16:467][610]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147473298, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.11.05-01.33.16:467][610]LogNet: SteamSockets: New connection (1749060095) over listening socket accepted 76561199036446150:0
+[2024.11.05-01.33.16:508][612]LogNet: Verbose: SteamSockets: Connection established with user with socket id: 1749060095
+[2024.11.05-01.33.17:489][641]LogNet: Verbose: InitSequence: IncomingSequence: 6808, OutgoingSequence: 3637, InitInReliable: 664, InitOutReliable: 565
+[2024.11.05-01.33.17:489][641]LogNet: SteamSockets: Connectionless handshake complete
+[2024.11.05-01.33.17:520][642]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/Facility.Facility: Accepted
+[2024.11.05-01.33.17:521][642]LogNet: Remote platform little endian=1
+[2024.11.05-01.33.17:521][642]LogNet: This platform little endian=1
+[2024.11.05-01.33.17:521][642]LogNet: Verbose: UNetConnection::SetExpectedClientLoginMsgType: Type changing from [0]Hello to [5]Login
+[2024.11.05-01.33.17:552][643]LogNet: Login request: ?Name=CostaDelMars??PW=qwerty?ConnectID=76561199036446150 userId: STEAM:UNKNOWN [0x1100001402535C6] platform: STEAM
+[2024.11.05-01.33.17:552][643]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from LoggingIn to Welcomed
+[2024.11.05-01.33.17:586][644]LogNet: Client netspeed is 640000
+[2024.11.05-01.33.18:143][661]LogNet: Join request: /Game/Maps/ServerEntry?Name=CostaDelMars??PW=qwerty?ConnectID=76561199036446150?SplitscreenCount=1
+[2024.11.05-01.33.18:145][661]LogAbiotic: Display: CHAT LOG:  CostaDelMars has entered the facility.
+[2024.11.05-01.33.18:152][661]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class FPArms_AnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.11.05-01.33.18:160][661]LogNet: Join succeeded: CostaDelMars
+[2024.11.05-01.33.18:161][661]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from Welcomed to ReceivedJoin
+[2024.11.05-01.33.18:968][686]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147473278, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 4, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147473298, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147473288, Owner: Abiotic_PlayerController_C_2147473288, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.33.19:313][696]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147473278, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 73, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147479445, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147479435, Owner: Abiotic_PlayerController_C_2147479435, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-01.33.20:143][721]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147473278, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 4, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147473298, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147473288, Owner: Abiotic_PlayerController_C_2147473288, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.33.20:143][721]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147479425, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 82, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147473298, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147473288, Owner: Abiotic_PlayerController_C_2147473288, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.33.23:133][811]LogOnline: Verbose: OSS: Async task 'FOnlineAsyncTaskSteamUpdateServer bWasSuccessful: 1 Session: GameSession' succeeded in 0.012132 seconds
+[2024.11.05-01.33.33:257][117]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Container_TraderStorage_C /Game/Maps/Facility_Office1.Facility_Office1:PersistentLevel.StorageContainer_GEN_VARIABLE_Container_TraderStorage_C_CAT_46, Role: 3, RemoteRole: 1 [UChannel] ChIndex: 479, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147473298, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147473288, Owner: Abiotic_PlayerController_C_2147473288, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.33.34:542][156]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.33.34:542][156]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.33.34:542][156]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.33.34:542][156]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.33.34:590][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2024.11.05-01.34.44:196][262]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2024.11.05-01.35.19:411][328]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-01.35.21:958][406]LogNet: Warning: SteamSockets: LowLevelSend: Could not send 31 bytes of data got error 0
+[2024.11.05-01.35.22:001][407]LogNet: Warning: SteamSockets: LowLevelSend: Could not send 46 bytes of data got error 0
+[2024.11.05-01.35.22:001][407]LogNet: Verbose: SteamSockets: Connection dropped with user with socket id: 1749060095
+[2024.11.05-01.35.22:016][408]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147473298, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147473288, Owner: Abiotic_PlayerController_C_2147473288, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.35.22:032][408]LogAbiotic: Display: CHAT LOG:  CostaDelMars has exited the facility.
+[2024.11.05-01.35.22:033][408]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from ReceivedJoin to CleanedUp
+[2024.11.05-01.35.26:996][560]LogOnline: Verbose: OSS: Async task 'FOnlineAsyncTaskSteamUpdateServer bWasSuccessful: 1 Session: GameSession' succeeded in 0.010988 seconds
+[2024.11.05-01.35.27:773][583]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.35.27:773][583]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.35.27:810][583]LogNet: Verbose: UNetConnection::SetClientLoginState: State same: CleanedUp
+[2024.11.05-01.35.27:819][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.11.05-01.36.53:135][173]LogNet: Verbose: NotifyAcceptingConnection: Server Facility accept
+[2024.11.05-01.36.53:136][173]LogSockets: SteamSockets: Now tracking socket 4225928838 for addr 76561199036446150:0, has parent? 1
+[2024.11.05-01.36.53:136][173]LogNet: SteamSocketsNetConnection_2147471722 setting maximum channels to: 32767
+[2024.11.05-01.36.53:137][173]PacketHandlerLog: Warning: PacketHandler encryption component is configured as DTLSHandlerComponent, but it won't be used because the cvar net.AllowEncryption is false.
+[2024.11.05-01.36.53:137][173]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.11.05-01.36.53:137][173]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from Invalid to LoggingIn
+[2024.11.05-01.36.53:137][173]LogNet: Verbose: UNetConnection::SetExpectedClientLoginMsgType: Type same: [0]Hello
+[2024.11.05-01.36.53:137][173]LogNet: NotifyAcceptedConnection: Name: Facility, TimeStamp: 11/05/24 01:36:53, [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147471722, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.11.05-01.36.53:137][173]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147471722, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.11.05-01.36.53:138][173]LogNet: SteamSockets: New connection (4225928838) over listening socket accepted 76561199036446150:0
+[2024.11.05-01.36.53:168][175]LogNet: Verbose: SteamSockets: Connection established with user with socket id: 4225928838
+[2024.11.05-01.36.54:142][204]LogNet: Verbose: InitSequence: IncomingSequence: 6761, OutgoingSequence: 5653, InitInReliable: 617, InitOutReliable: 533
+[2024.11.05-01.36.54:142][204]LogNet: SteamSockets: Connectionless handshake complete
+[2024.11.05-01.36.54:173][205]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/Facility.Facility: Accepted
+[2024.11.05-01.36.54:173][205]LogNet: Remote platform little endian=1
+[2024.11.05-01.36.54:173][205]LogNet: This platform little endian=1
+[2024.11.05-01.36.54:173][205]LogNet: Verbose: UNetConnection::SetExpectedClientLoginMsgType: Type changing from [0]Hello to [5]Login
+[2024.11.05-01.36.54:206][206]LogNet: Login request: ?Name=CostaDelMars??PW=qwerty?ConnectID=76561199036446150 userId: STEAM:UNKNOWN [0x1100001402535C6] platform: STEAM
+[2024.11.05-01.36.54:206][206]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from LoggingIn to Welcomed
+[2024.11.05-01.36.54:240][207]LogNet: Client netspeed is 640000
+[2024.11.05-01.36.54:767][223]LogNet: Join request: /Game/Maps/ServerEntry?Name=CostaDelMars??PW=qwerty?ConnectID=76561199036446150?SplitscreenCount=1
+[2024.11.05-01.36.54:770][223]LogAbiotic: Display: CHAT LOG:  CostaDelMars has entered the facility.
+[2024.11.05-01.36.54:778][223]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class FPArms_AnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.11.05-01.36.54:790][223]LogNet: Join succeeded: CostaDelMars
+[2024.11.05-01.36.54:791][223]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from Welcomed to ReceivedJoin
+[2024.11.05-01.36.55:649][249]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147471703, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 4, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147471722, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147471713, Owner: Abiotic_PlayerController_C_2147471713, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.36.56:014][260]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147471703, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 31, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147479445, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147479435, Owner: Abiotic_PlayerController_C_2147479435, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-01.36.56:676][280]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147471703, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 4, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147471722, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147471713, Owner: Abiotic_PlayerController_C_2147471713, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.36.56:944][288]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147479425, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 40, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147471722, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147471713, Owner: Abiotic_PlayerController_C_2147471713, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.36.59:788][374]LogOnline: Verbose: OSS: Async task 'FOnlineAsyncTaskSteamUpdateServer bWasSuccessful: 1 Session: GameSession' succeeded in 0.018675 seconds
+[2024.11.05-01.37.00:237][387]LogNiagara: Warning: UNiagaraFunctionLibrary::OverrideSystemUserVariableSkeletalMeshComponent: Did not find a matching Skeletal Mesh Data Interface variable named "" in the User variables of NiagaraSystem "NiagaraComponent /Game/Maps/Facility.Facility:PersistentLevel.NPC_Monster_Symphonist_C_2147470898.DissolveParticle" .
+[2024.11.05-01.37.47:249][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.11.05-01.40.19:410][423]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-01.45.19:352][479]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-01.45.42:415][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.11.05-01.45.58:256][661]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Container_TraderStorage_C /Game/Maps/Facility_Office1.Facility_Office1:PersistentLevel.StorageContainer_GEN_VARIABLE_Container_TraderStorage_C_CAT_46, Role: 3, RemoteRole: 1 [UChannel] ChIndex: 410, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147471722, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147471713, Owner: Abiotic_PlayerController_C_2147471713, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.46.00:423][727]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Container_TraderStorage_C /Game/Maps/Facility_Office1.Facility_Office1:PersistentLevel.StorageContainer_GEN_VARIABLE_Container_TraderStorage_C_CAT_46, Role: 3, RemoteRole: 1 [UChannel] ChIndex: 480, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147479445, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147479435, Owner: Abiotic_PlayerController_C_2147479435, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-01.46.09:013][988]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.46.09:013][988]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.46.09:013][988]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.46.09:014][988]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-01.46.09:057][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.11.05-01.50.19:463][583]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-01.50.45:461][374]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEnd Owner:/Game/Blueprints/Environment/Effects/WorldFlagFX_Monitor.WorldFlagFX_Monitor_C:Niagara_GEN_VARIABLE
+[2024.11.05-01.50.45:625][379]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEnd Owner:/Game/Maps/Facility_MFFoundry.Facility_MFFoundry:PersistentLevel.WorldFlagFX_MFMonitor_C_3.Niagara
+[2024.11.05-01.50.45:625][379]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEnd Owner:/Game/Maps/Facility_MFFoundry.Facility_MFFoundry:PersistentLevel.WorldFlagFX_MFMonitor_C_4.Niagara
+[2024.11.05-01.50.45:625][379]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEnd Owner:/Game/Maps/Facility_MFFoundry.Facility_MFFoundry:PersistentLevel.WorldFlagFX_MFMonitor_C_5.Niagara
+[2024.11.05-01.50.51:858][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.11.05-01.50.52:761][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2024.11.05-01.50.52:828][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.11.05-01.50.58:250][761]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Container_TraderStorage_C /Game/Maps/Facility_MFWest.Facility_MFWest:PersistentLevel.StorageContainer_GEN_VARIABLE_Container_TraderStorage_C_CAT_0, Role: 3, RemoteRole: 1 [UChannel] ChIndex: 259, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147471722, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147471713, Owner: Abiotic_PlayerController_C_2147471713, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.50.58:669][774]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Container_TraderStorage_C /Game/Maps/Facility_MFWest.Facility_MFWest:PersistentLevel.StorageContainer_GEN_VARIABLE_Container_TraderStorage_C_CAT_0, Role: 3, RemoteRole: 1 [UChannel] ChIndex: 278, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147479445, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147479435, Owner: Abiotic_PlayerController_C_2147479435, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-01.53.05:173][593]LogNet: Warning: SteamSockets: LowLevelSend: Could not send 70 bytes of data got error 0
+[2024.11.05-01.53.05:173][593]LogNet: Verbose: SteamSockets: Connection dropped with user with socket id: 1380869928
+[2024.11.05-01.53.05:191][594]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147479445, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147479435, Owner: Abiotic_PlayerController_C_2147479435, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-01.53.05:204][594]LogAbiotic: Display: CHAT LOG:  conceptxo has exited the facility.
+[2024.11.05-01.53.05:205][594]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from ReceivedJoin to CleanedUp
+[2024.11.05-01.53.10:201][747]LogOnline: Verbose: OSS: Async task 'FOnlineAsyncTaskSteamUpdateServer bWasSuccessful: 1 Session: GameSession' succeeded in 0.012928 seconds
+[2024.11.05-01.53.22:913][132]LogNet: Verbose: UNetConnection::SetClientLoginState: State same: CleanedUp
+[2024.11.05-01.55.19:629][675]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-01.56.09:117][179]LogNet: Verbose: NotifyAcceptingConnection: Server Facility accept
+[2024.11.05-01.56.09:118][179]LogSockets: SteamSockets: Now tracking socket 2877811266 for addr 76561197969472572:0, has parent? 1
+[2024.11.05-01.56.09:118][179]LogNet: SteamSocketsNetConnection_2147467929 setting maximum channels to: 32767
+[2024.11.05-01.56.09:120][179]PacketHandlerLog: Warning: PacketHandler encryption component is configured as DTLSHandlerComponent, but it won't be used because the cvar net.AllowEncryption is false.
+[2024.11.05-01.56.09:120][179]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.11.05-01.56.09:120][179]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from Invalid to LoggingIn
+[2024.11.05-01.56.09:120][179]LogNet: Verbose: UNetConnection::SetExpectedClientLoginMsgType: Type same: [0]Hello
+[2024.11.05-01.56.09:120][179]LogNet: NotifyAcceptedConnection: Name: Facility, TimeStamp: 11/05/24 01:56:09, [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147467929, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.11.05-01.56.09:120][179]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147467929, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.11.05-01.56.09:121][179]LogNet: SteamSockets: New connection (2877811266) over listening socket accepted 76561197969472572:0
+[2024.11.05-01.56.09:121][180]LogNet: Verbose: SteamSockets: Connection established with user with socket id: 2877811266
+[2024.11.05-01.56.10:120][210]LogNet: Verbose: InitSequence: IncomingSequence: 1940, OutgoingSequence: 5136, InitInReliable: 916, InitOutReliable: 16
+[2024.11.05-01.56.10:120][210]LogNet: SteamSockets: Connectionless handshake complete
+[2024.11.05-01.56.10:152][211]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/Facility.Facility: Accepted
+[2024.11.05-01.56.10:152][211]LogNet: Remote platform little endian=1
+[2024.11.05-01.56.10:152][211]LogNet: This platform little endian=1
+[2024.11.05-01.56.10:153][211]LogNet: Verbose: UNetConnection::SetExpectedClientLoginMsgType: Type changing from [0]Hello to [5]Login
+[2024.11.05-01.56.10:185][212]LogNet: Login request: ?Name=conceptxo??PW=qwerty?ConnectID=76561197969472572 userId: STEAM:UNKNOWN [0x1100001008C7C3C] platform: STEAM
+[2024.11.05-01.56.10:185][212]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from LoggingIn to Welcomed
+[2024.11.05-01.56.10:219][213]LogNet: Client netspeed is 640000
+[2024.11.05-01.56.10:913][234]LogNet: Join request: /Game/Maps/ServerEntry?Name=conceptxo??PW=qwerty?ConnectID=76561197969472572?SplitscreenCount=1
+[2024.11.05-01.56.10:915][234]LogAbiotic: Display: CHAT LOG:  conceptxo has entered the facility.
+[2024.11.05-01.56.10:922][234]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class FPArms_AnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.11.05-01.56.10:928][234]LogNet: Join succeeded: conceptxo
+[2024.11.05-01.56.10:928][234]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from Welcomed to ReceivedJoin
+[2024.11.05-01.56.11:869][263]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147467909, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 14, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147467929, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147467919, Owner: Abiotic_PlayerController_C_2147467919, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-01.56.12:124][270]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147467909, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 411, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147471722, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147471713, Owner: Abiotic_PlayerController_C_2147471713, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-01.56.12:732][288]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147467909, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 14, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147467929, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147467919, Owner: Abiotic_PlayerController_C_2147467919, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-01.56.13:125][300]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147471703, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 186, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147467929, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147467919, Owner: Abiotic_PlayerController_C_2147467919, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-01.56.15:915][386]LogOnline: Verbose: OSS: Async task 'FOnlineAsyncTaskSteamUpdateServer bWasSuccessful: 1 Session: GameSession' succeeded in 0.006250 seconds
+[2024.11.05-01.57.09:700][ 19]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Container_TraderStorage_C /Game/Maps/Facility_MFWest.Facility_MFWest:PersistentLevel.StorageContainer_GEN_VARIABLE_Container_TraderStorage_C_CAT_0, Role: 3, RemoteRole: 1 [UChannel] ChIndex: 248, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147467929, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147467919, Owner: Abiotic_PlayerController_C_2147467919, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-01.58.28:570][403]LogAbiotic: Display: Creating save backup for: Oblivion
+[2024.11.05-01.58.28:582][403]LogAbiotic: Display: Found index 1 to use as backup for save Oblivion, beginning now...
+[2024.11.05-01.58.28:582][403]LogAbiotic: Display: Existing backup found, deleting: Z:/server/AbioticFactor/Saved/SaveGames/Server/Backups/Oblivion/1
+[2024.11.05-01.58.28:589][403]LogAbiotic: Display: Copying directory tree: Z:/server/AbioticFactor/Saved/SaveGames/Server/Backups/Oblivion/1 Z:/server/AbioticFactor/Saved/SaveGames/Server/Worlds/Oblivion
+[2024.11.05-02.00.19:636][765]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-02.01.49:100][482]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 52.291897, CurrentTimeStamp: 53.304424, Character: Abiotic_PlayerCharacter_C_2147471703
+[2024.11.05-02.01.49:101][482]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 52.291897, CurrentTimeStamp: 53.326813, Character: Abiotic_PlayerCharacter_C_2147471703
+[2024.11.05-02.01.49:101][482]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 52.291897, CurrentTimeStamp: 53.350117, Character: Abiotic_PlayerCharacter_C_2147471703
+[2024.11.05-02.01.49:131][483]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 52.291897, CurrentTimeStamp: 53.374191, Character: Abiotic_PlayerCharacter_C_2147471703
+[2024.11.05-02.01.49:134][483]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 52.291897, CurrentTimeStamp: 53.397739, Character: Abiotic_PlayerCharacter_C_2147471703
+[2024.11.05-02.02.28:381][675]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEnd Owner:/Game/Blueprints/Environment/Effects/WorldFlagFX_Monitor.WorldFlagFX_Monitor_C:Niagara_GEN_VARIABLE
+[2024.11.05-02.02.28:548][680]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEnd Owner:/Game/Maps/Facility_MFFoundry.Facility_MFFoundry:PersistentLevel.WorldFlagFX_MFMonitor_C_3.Niagara
+[2024.11.05-02.02.28:548][680]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEnd Owner:/Game/Maps/Facility_MFFoundry.Facility_MFFoundry:PersistentLevel.WorldFlagFX_MFMonitor_C_4.Niagara
+[2024.11.05-02.02.28:548][680]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEnd Owner:/Game/Maps/Facility_MFFoundry.Facility_MFFoundry:PersistentLevel.WorldFlagFX_MFMonitor_C_5.Niagara
+[2024.11.05-02.02.34:372][857]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Container_TraderStorage_C /Game/Maps/Facility_Office1.Facility_Office1:PersistentLevel.StorageContainer_GEN_VARIABLE_Container_TraderStorage_C_CAT_46, Role: 3, RemoteRole: 1 [UChannel] ChIndex: 620, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147471722, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147471713, Owner: Abiotic_PlayerController_C_2147471713, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-02.02.35:523][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.11.05-02.02.48:798][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.11.05-02.03.01:744][688]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147467909, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 360, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147471722, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147471713, Owner: Abiotic_PlayerController_C_2147471713, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-02.03.01:819][690]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147471703, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 186, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147467929, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147467919, Owner: Abiotic_PlayerController_C_2147467919, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-02.03.11:134][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2024.11.05-02.03.25:589][406]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2024.11.05-02.03.30:882][567]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147467909, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 64, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147471722, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147471713, Owner: Abiotic_PlayerController_C_2147471713, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-02.03.30:947][569]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147471703, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 186, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147467929, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147467919, Owner: Abiotic_PlayerController_C_2147467919, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-02.05.19:900][855]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-02.05.45:556][634]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147471703, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 186, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147467929, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147467919, Owner: Abiotic_PlayerController_C_2147467919, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-02.05.45:573][635]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147467909, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 174, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147471722, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147471713, Owner: Abiotic_PlayerController_C_2147471713, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-02.07.28:839][767]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2024.11.05-02.07.37:480][ 27]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147471703, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 30, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147467929, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147467919, Owner: Abiotic_PlayerController_C_2147467919, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-02.07.37:514][ 28]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147467909, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 168, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147471722, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147471713, Owner: Abiotic_PlayerController_C_2147471713, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-02.07.39:969][102]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Container_TraderStorage_C /Game/Maps/Facility_Office1.Facility_Office1:PersistentLevel.StorageContainer_GEN_VARIABLE_Container_TraderStorage_C_CAT_46, Role: 3, RemoteRole: 1 [UChannel] ChIndex: 462, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147471722, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147471713, Owner: Abiotic_PlayerController_C_2147471713, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-02.07.46:765][304]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2024.11.05-02.10.20:083][940]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-02.10.26:150][121]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147471703, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 318, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147467929, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147467919, Owner: Abiotic_PlayerController_C_2147467919, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-02.10.26:182][122]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147467909, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 21, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147471722, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147471713, Owner: Abiotic_PlayerController_C_2147471713, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-02.10.40:415][551]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEnd Owner:/Game/Blueprints/Environment/Effects/WorldFlagFX_Monitor.WorldFlagFX_Monitor_C:Niagara_GEN_VARIABLE
+[2024.11.05-02.10.40:685][559]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEnd Owner:/Game/Maps/Facility_MFFoundry.Facility_MFFoundry:PersistentLevel.WorldFlagFX_MFMonitor_C_3.Niagara
+[2024.11.05-02.10.40:685][559]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEnd Owner:/Game/Maps/Facility_MFFoundry.Facility_MFFoundry:PersistentLevel.WorldFlagFX_MFMonitor_C_4.Niagara
+[2024.11.05-02.10.40:685][559]LogNiagara: User parameter redirect exists but no real value! Param: User.BeamEnd Owner:/Game/Maps/Facility_MFFoundry.Facility_MFFoundry:PersistentLevel.WorldFlagFX_MFMonitor_C_5.Niagara
+[2024.11.05-02.10.47:640][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.11.05-02.10.48:414][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.11.05-02.10.48:548][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.11.05-02.15.20:175][ 19]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-02.20.20:376][122]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-02.20.46:404][914]LogOnline: Verbose: OSS: Async task 'FOnlineAsyncTaskSteamUpdateServer bWasSuccessful: 1 Session: GameSession' succeeded in 0.018713 seconds
+[2024.11.05-02.21.09:053][600]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147467909, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 25, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147471722, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147471713, Owner: Abiotic_PlayerController_C_2147471713, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-02.21.09:155][603]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147471703, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 318, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147467929, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147467919, Owner: Abiotic_PlayerController_C_2147467919, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-02.21.38:478][494]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147467909, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 170, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147471722, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147471713, Owner: Abiotic_PlayerController_C_2147471713, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-02.21.38:579][497]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147471703, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 318, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147467929, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147467919, Owner: Abiotic_PlayerController_C_2147467919, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-02.23.17:685][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.11.05-02.25.20:412][217]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-02.28.33:650][ 82]LogAbiotic: Display: Creating save backup for: Oblivion
+[2024.11.05-02.28.33:659][ 82]LogAbiotic: Display: Found index 2 to use as backup for save Oblivion, beginning now...
+[2024.11.05-02.28.33:659][ 82]LogAbiotic: Display: Existing backup found, deleting: Z:/server/AbioticFactor/Saved/SaveGames/Server/Backups/Oblivion/2
+[2024.11.05-02.28.33:671][ 82]LogAbiotic: Display: Copying directory tree: Z:/server/AbioticFactor/Saved/SaveGames/Server/Backups/Oblivion/2 Z:/server/AbioticFactor/Saved/SaveGames/Server/Worlds/Oblivion
+[2024.11.05-02.30.20:499][320]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-02.31.03:270][620]LogAbiotic: Display: CHAT LOG: CostaDelMars was sliced into bits.
+[2024.11.05-02.31.04:620][661]LogNet: Warning: SteamSockets: LowLevelSend: Could not send 109 bytes of data got error 0
+[2024.11.05-02.31.04:621][662]LogNet: Verbose: SteamSockets: Connection dropped with user with socket id: 4225928838
+[2024.11.05-02.31.04:643][662]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147471722, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147471713, Owner: Abiotic_PlayerController_C_2147471713, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-02.31.04:644][662]LogAbiotic: Display: CHAT LOG:  CostaDelMars has exited the facility.
+[2024.11.05-02.31.04:645][662]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from ReceivedJoin to CleanedUp
+[2024.11.05-02.31.09:632][814]LogOnline: Verbose: OSS: Async task 'FOnlineAsyncTaskSteamUpdateServer bWasSuccessful: 1 Session: GameSession' succeeded in 0.017676 seconds
+[2024.11.05-02.31.18:097][ 71]LogNet: Verbose: UNetConnection::SetClientLoginState: State same: CleanedUp
+[2024.11.05-02.31.57:652][272]LogNet: Verbose: NotifyAcceptingConnection: Server Facility accept
+[2024.11.05-02.31.57:653][272]LogSockets: SteamSockets: Now tracking socket 1532424740 for addr 76561199036446150:0, has parent? 1
+[2024.11.05-02.31.57:653][272]LogNet: SteamSocketsNetConnection_2147459399 setting maximum channels to: 32767
+[2024.11.05-02.31.57:653][272]PacketHandlerLog: Warning: PacketHandler encryption component is configured as DTLSHandlerComponent, but it won't be used because the cvar net.AllowEncryption is false.
+[2024.11.05-02.31.57:653][272]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.11.05-02.31.57:654][272]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from Invalid to LoggingIn
+[2024.11.05-02.31.57:654][272]LogNet: Verbose: UNetConnection::SetExpectedClientLoginMsgType: Type same: [0]Hello
+[2024.11.05-02.31.57:654][272]LogNet: NotifyAcceptedConnection: Name: Facility, TimeStamp: 11/05/24 02:31:57, [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147459399, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.11.05-02.31.57:654][272]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147459399, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.11.05-02.31.57:654][272]LogNet: SteamSockets: New connection (1532424740) over listening socket accepted 76561199036446150:0
+[2024.11.05-02.31.57:670][274]LogNet: Verbose: SteamSockets: Connection established with user with socket id: 1532424740
+[2024.11.05-02.31.58:682][304]LogNet: Verbose: InitSequence: IncomingSequence: 4985, OutgoingSequence: 5315, InitInReliable: 889, InitOutReliable: 195
+[2024.11.05-02.31.58:682][304]LogNet: SteamSockets: Connectionless handshake complete
+[2024.11.05-02.31.58:714][305]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/Facility.Facility: Accepted
+[2024.11.05-02.31.58:714][305]LogNet: Remote platform little endian=1
+[2024.11.05-02.31.58:714][305]LogNet: This platform little endian=1
+[2024.11.05-02.31.58:714][305]LogNet: Verbose: UNetConnection::SetExpectedClientLoginMsgType: Type changing from [0]Hello to [5]Login
+[2024.11.05-02.31.58:747][306]LogNet: Login request: ?Name=CostaDelMars??PW=qwerty?ConnectID=76561199036446150 userId: STEAM:UNKNOWN [0x1100001402535C6] platform: STEAM
+[2024.11.05-02.31.58:747][306]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from LoggingIn to Welcomed
+[2024.11.05-02.31.58:779][307]LogNet: Client netspeed is 640000
+[2024.11.05-02.31.59:338][324]LogNet: Join request: /Game/Maps/ServerEntry?Name=CostaDelMars??PW=qwerty?ConnectID=76561199036446150?SplitscreenCount=1
+[2024.11.05-02.31.59:338][324]LogAbiotic: Display: CHAT LOG:  CostaDelMars has entered the facility.
+[2024.11.05-02.31.59:340][324]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class FPArms_AnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2024.11.05-02.31.59:342][324]LogNet: Join succeeded: CostaDelMars
+[2024.11.05-02.31.59:342][324]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from Welcomed to ReceivedJoin
+[2024.11.05-02.32.00:596][361]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147459378, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 442, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147467929, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147467919, Owner: Abiotic_PlayerController_C_2147467919, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-02.32.01:383][385]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147467909, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 433, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147459399, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147459388, Owner: Abiotic_PlayerController_C_2147459388, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-02.32.01:505][389]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.532086, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:506][389]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.559947, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:538][390]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.576827, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:571][391]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.595629, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:604][392]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.627052, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:605][392]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.647772, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:637][393]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.666171, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:640][393]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.683738, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:670][394]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.707036, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:672][394]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.726685, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:704][395]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.745206, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:736][396]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.763115, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:738][396]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.780669, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:770][397]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.798248, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:771][397]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.815400, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:801][398]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.833153, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:803][398]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.850670, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:834][399]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.867727, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:835][399]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.884918, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:869][400]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.902365, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:870][400]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.920086, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:901][401]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.936928, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:932][402]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.954283, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:933][402]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.971475, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:967][403]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 1.990731, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:967][403]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 2.011679, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:999][404]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 2.028220, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.01:999][404]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 2.045442, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.02:032][405]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 2.063208, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.02:034][405]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 2.080873, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.02:065][406]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 2.098557, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.02:066][406]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 2.115384, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.02:099][407]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 2.132310, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.02:101][407]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 2.149498, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.02:130][408]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 2.167068, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.02:131][408]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 2.184178, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.02:163][409]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 2.200964, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.02:196][410]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 2.218821, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.02:196][410]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 2.236569, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.02:228][411]LogNetPlayerMovement: Warning: ServerMove: TimeStamp expired: 0.529934, CurrentTimeStamp: 2.254214, Character: Abiotic_PlayerCharacter_C_2147459378
+[2024.11.05-02.32.04:361][476]LogOnline: Verbose: OSS: Async task 'FOnlineAsyncTaskSteamUpdateServer bWasSuccessful: 1 Session: GameSession' succeeded in 0.019756 seconds
+[2024.11.05-02.32.04:809][489]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147459378, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 4, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147459399, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147459388, Owner: Abiotic_PlayerController_C_2147459388, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-02.32.04:812][489]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Container_TraderStorage_C /Game/Maps/Facility_MFWest.Facility_MFWest:PersistentLevel.StorageContainer_GEN_VARIABLE_Container_TraderStorage_C_CAT_0, Role: 3, RemoteRole: 1 [UChannel] ChIndex: 1160, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147459399, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147459388, Owner: Abiotic_PlayerController_C_2147459388, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-02.32.05:995][525]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147459378, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 4, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147459399, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147459388, Owner: Abiotic_PlayerController_C_2147459388, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-02.32.11:456][691]LogAbiotic: Display: CHAT LOG: CostaDelMars was sliced into bits.
+[2024.11.05-02.35.20:681][419]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-02.40.20:671][460]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-02.43.33:581][313]LogEQS: Warning: Query EQ_FindCombatLocation (Owner: NPC_Exor_Monk_C_2147464562) has taken 30.43 ms so far, exceeding the configured limit of 25.00 ms. Execution details: Total Execution Time: 30.43 ms (detailed data not available without USE_EQS_DEBUGGER)
+[2024.11.05-02.43.33:606][314]LogEQS: Warning: Query EQ_FindCombatLocation (Owner: NPC_Exor_Monk_C_2147464562) has finished in 31.86 ms, exceeding the configured limit of 25.00 ms. Execution details: Total Execution Time: 31.86 ms (detailed data not available without USE_EQS_DEBUGGER)
+[2024.11.05-02.45.20:791][563]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-02.45.30:560][860]LogEQS: Warning: Query EQ_FindLeyakLocation (Owner: Abiotic_PlayerCharacter_C_2147459378) has taken 25.69 ms so far, exceeding the configured limit of 25.00 ms. Execution details: Total Execution Time: 25.69 ms (detailed data not available without USE_EQS_DEBUGGER)
+[2024.11.05-02.45.30:577][861]LogEQS: Warning: Query EQ_FindLeyakLocation (Owner: Abiotic_PlayerCharacter_C_2147459378) has finished in 26.09 ms, exceeding the configured limit of 25.00 ms. Execution details: Total Execution Time: 26.09 ms (detailed data not available without USE_EQS_DEBUGGER)
+[2024.11.05-02.46.06:335][943]LogEQS: Warning: Query EQ_FindLeyakLocation (Owner: Abiotic_PlayerCharacter_C_2147459378) has taken 27.08 ms so far, exceeding the configured limit of 25.00 ms. Execution details: Total Execution Time: 27.08 ms (detailed data not available without USE_EQS_DEBUGGER)
+[2024.11.05-02.46.06:361][944]LogEQS: Warning: Query EQ_FindLeyakLocation (Owner: Abiotic_PlayerCharacter_C_2147459378) has finished in 28.59 ms, exceeding the configured limit of 25.00 ms. Execution details: Total Execution Time: 28.59 ms (detailed data not available without USE_EQS_DEBUGGER)
+[2024.11.05-02.47.53:114][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.11.05-02.48.38:616][562]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2024.11.05-02.50.20:795][666]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-02.52.32:797][678]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147467909, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 43, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147459399, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147459388, Owner: Abiotic_PlayerController_C_2147459388, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-02.52.32:896][681]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147459378, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 531, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147467929, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147467919, Owner: Abiotic_PlayerController_C_2147467919, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-02.52.54:561][339]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-02.52.54:575][339]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-02.52.54:575][339]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-02.52.54:575][339]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-02.52.54:616][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.11.05-02.53.20:860][137]LogAbiotic: Display: CHAT LOG: CostaDelMars was sliced into bits.
+[2024.11.05-02.53.28:579][371]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Container_TraderStorage_C /Game/Maps/Facility_MFWest.Facility_MFWest:PersistentLevel.StorageContainer_GEN_VARIABLE_Container_TraderStorage_C_CAT_0, Role: 3, RemoteRole: 1 [UChannel] ChIndex: 89, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147467929, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147467919, Owner: Abiotic_PlayerController_C_2147467919, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-02.53.34:441][549]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Container_TraderStorage_C /Game/Maps/Facility_MFWest.Facility_MFWest:PersistentLevel.StorageContainer_GEN_VARIABLE_Container_TraderStorage_C_CAT_0, Role: 3, RemoteRole: 1 [UChannel] ChIndex: 334, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147459399, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147459388, Owner: Abiotic_PlayerController_C_2147459388, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-02.53.35:946][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.11.05-02.54.34:867][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.11.05-02.54.49:140][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.11.05-02.55.20:988][783]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-02.56.28:789][844]LogAbiotic: Display: CHAT LOG: CostaDelMars forgot to keep their blood inside their body.
+[2024.11.05-02.57.01:568][840]LogAbiotic: Display: CHAT LOG: CostaDelMars forgot to keep their blood inside their body.
+[2024.11.05-02.57.13:782][209]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Container_TraderStorage_C /Game/Maps/Facility_MFWest.Facility_MFWest:PersistentLevel.StorageContainer_GEN_VARIABLE_Container_TraderStorage_C_CAT_0, Role: 3, RemoteRole: 1 [UChannel] ChIndex: 76, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147459399, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147459388, Owner: Abiotic_PlayerController_C_2147459388, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-02.57.24:476][534]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147459378, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 35, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147467929, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147467919, Owner: Abiotic_PlayerController_C_2147467919, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-02.57.24:477][534]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147467909, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 374, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147459399, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147459388, Owner: Abiotic_PlayerController_C_2147459388, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-02.57.56:480][507]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-02.57.56:481][507]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-02.57.56:481][507]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-02.57.56:481][507]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-02.57.56:525][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2024.11.05-02.58.08:993][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.11.05-02.58.38:714][785]LogAbiotic: Display: Creating save backup for: Oblivion
+[2024.11.05-02.58.38:715][785]LogAbiotic: Display: Found index 3 to use as backup for save Oblivion, beginning now...
+[2024.11.05-02.58.38:715][785]LogAbiotic: Display: Existing backup found, deleting: Z:/server/AbioticFactor/Saved/SaveGames/Server/Backups/Oblivion/3
+[2024.11.05-02.58.38:730][785]LogAbiotic: Display: Copying directory tree: Z:/server/AbioticFactor/Saved/SaveGames/Server/Backups/Oblivion/3 Z:/server/AbioticFactor/Saved/SaveGames/Server/Worlds/Oblivion
+[2024.11.05-03.00.21:004][890]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-03.01.02:642][156]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Container_TraderStorage_C /Game/Maps/Facility_MFWest.Facility_MFWest:PersistentLevel.StorageContainer_GEN_VARIABLE_Container_TraderStorage_C_CAT_0, Role: 3, RemoteRole: 1 [UChannel] ChIndex: 215, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147459399, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147459388, Owner: Abiotic_PlayerController_C_2147459388, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-03.01.14:612][518]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2024.11.05-03.03.17:331][227]LogAbiotic: Display: CHAT LOG: conceptxo forgot about gravity.
+[2024.11.05-03.03.26:883][516]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCorpse_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCorpse_C_2147451000, Role: 3, RemoteRole: 1 [UChannel] ChIndex: 28, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147467929, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147467919, Owner: Abiotic_PlayerController_C_2147467919, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-03.03.26:883][516]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCorpse_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCorpse_C_2147451000, Role: 3, RemoteRole: 1 [UChannel] ChIndex: 173, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147459399, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147459388, Owner: Abiotic_PlayerController_C_2147459388, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-03.03.32:072][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.11.05-03.03.33:842][722]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Container_TraderStorage_C /Game/Maps/Facility_MFWest.Facility_MFWest:PersistentLevel.StorageContainer_GEN_VARIABLE_Container_TraderStorage_C_CAT_0, Role: 3, RemoteRole: 1 [UChannel] ChIndex: 32, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147467929, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147467919, Owner: Abiotic_PlayerController_C_2147467919, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-03.04.43:670][843]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147467909, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 697, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147459399, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147459388, Owner: Abiotic_PlayerController_C_2147459388, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-03.04.43:724][845]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147459378, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 226, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147467929, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147467919, Owner: Abiotic_PlayerController_C_2147467919, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-03.04.50:038][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.11.05-03.05.00:461][353]LogEQS: Warning: Query EQ_FindCombatLocation (Owner: NPC_Exor_Monk_C_2147450503) has taken 28.59 ms so far, exceeding the configured limit of 25.00 ms. Execution details: Total Execution Time: 28.59 ms (detailed data not available without USE_EQS_DEBUGGER)
+[2024.11.05-03.05.00:461][353]LogEQS: Warning: Query EQ_FindCombatLocation (Owner: NPC_Exor_Monk_C_2147450503) has finished in 28.71 ms, exceeding the configured limit of 25.00 ms. Execution details: Total Execution Time: 28.71 ms (detailed data not available without USE_EQS_DEBUGGER)
+[2024.11.05-03.05.03:094][433]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-03.05.03:094][433]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-03.05.03:094][433]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-03.05.03:094][433]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-03.05.03:137][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.11.05-03.05.19:579][933]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-03.05.19:579][933]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-03.05.19:579][933]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-03.05.19:579][933]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-03.05.19:625][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.11.05-03.05.21:113][977]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-03.06.43:039][466]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147459378, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 70, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147467929, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147467919, Owner: Abiotic_PlayerController_C_2147467919, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-03.06.43:040][466]LogNet: Verbose: ReplicateActor: bPausedUntilReliableACK is ending now that reliables have been ACK'd. [UActorChannel] Actor: Abiotic_PlayerCharacter_C /Game/Maps/Facility.Facility:PersistentLevel.Abiotic_PlayerCharacter_C_2147467909, Role: 3, RemoteRole: 2 [UChannel] ChIndex: 183, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147459399, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147459388, Owner: Abiotic_PlayerController_C_2147459388, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-03.07.18:665][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.11.05-03.07.29:805][880]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-03.07.29:805][880]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-03.07.29:805][880]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-03.07.29:805][880]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-03.07.29:829][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.11.05-03.08.00:691][817]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-03.08.00:691][817]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-03.08.00:692][817]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-03.08.00:692][817]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-03.08.00:693][817]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-03.08.00:693][817]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-03.08.00:744][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.11.05-03.10.21:263][ 56]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-03.10.47:719][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.11.05-03.13.48:635][332]LogNet: Warning: SteamSockets: LowLevelSend: Could not send 71 bytes of data got error 0
+[2024.11.05-03.13.48:635][332]LogNet: Verbose: SteamSockets: Connection dropped with user with socket id: 2877811266
+[2024.11.05-03.13.48:663][333]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 76561197969472572:0, Name: SteamSocketsNetConnection_2147467929, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147467919, Owner: Abiotic_PlayerController_C_2147467919, UniqueId: STEAM:UNKNOWN [0x1100001008C7C3C]
+[2024.11.05-03.13.48:668][333]LogAbiotic: Display: CHAT LOG:  conceptxo has exited the facility.
+[2024.11.05-03.13.48:668][333]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from ReceivedJoin to CleanedUp
+[2024.11.05-03.13.53:653][485]LogOnline: Verbose: OSS: Async task 'FOnlineAsyncTaskSteamUpdateServer bWasSuccessful: 1 Session: GameSession' succeeded in 0.010237 seconds
+[2024.11.05-03.14.17:842][220]LogNet: Verbose: UNetConnection::SetClientLoginState: State same: CleanedUp
+[2024.11.05-03.15.13:537][912]LogNet: Warning: SteamSockets: LowLevelSend: Could not send 34 bytes of data got error 0
+[2024.11.05-03.15.13:537][912]LogNet: Verbose: SteamSockets: Connection dropped with user with socket id: 1532424740
+[2024.11.05-03.15.13:554][913]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 76561199036446150:0, Name: SteamSocketsNetConnection_2147459399, Driver: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482322, IsServer: YES, PC: Abiotic_PlayerController_C_2147459388, Owner: Abiotic_PlayerController_C_2147459388, UniqueId: STEAM:UNKNOWN [0x1100001402535C6]
+[2024.11.05-03.15.13:563][913]LogAbiotic: Display: CHAT LOG:  CostaDelMars has exited the facility.
+[2024.11.05-03.15.13:563][913]LogNet: Verbose: UNetConnection::SetClientLoginState: State changing from ReceivedJoin to CleanedUp
+[2024.11.05-03.15.14:598][943]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-03.15.18:524][ 64]LogOnline: Verbose: OSS: Async task 'FOnlineAsyncTaskSteamUpdateServer bWasSuccessful: 1 Session: GameSession' succeeded in 0.003421 seconds
+[2024.11.05-03.15.20:693][129]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-03.15.20:693][129]AbioticSandboxOptionSubsystem: Error: GetSandboxOption_Int: WorldContextObject->GetWorld() is invalid: GameDifficulty
+[2024.11.05-03.15.20:740][129]LogNet: Verbose: UNetConnection::SetClientLoginState: State same: CleanedUp
+[2024.11.05-03.15.20:750][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.11.05-03.15.21:246][143]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-03.20.21:334][257]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-03.25.21:424][373]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-03.28.43:778][521]LogAbiotic: Display: Creating save backup for: Oblivion
+[2024.11.05-03.28.43:779][521]LogAbiotic: Display: Found index 4 to use as backup for save Oblivion, beginning now...
+[2024.11.05-03.28.43:780][521]LogAbiotic: Display: Existing backup found, deleting: Z:/server/AbioticFactor/Saved/SaveGames/Server/Backups/Oblivion/4
+[2024.11.05-03.28.43:797][521]LogAbiotic: Display: Copying directory tree: Z:/server/AbioticFactor/Saved/SaveGames/Server/Backups/Oblivion/4 Z:/server/AbioticFactor/Saved/SaveGames/Server/Worlds/Oblivion
+[2024.11.05-03.30.22:156][505]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-03.35.22:385][621]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-03.40.22:325][731]LogSaveWorld: Display: Finished autosaving
+[2024.11.05-03.58.48:834][343]LogAbiotic: Display: Creating save backup for: Oblivion
+[2024.11.05-03.58.48:835][343]LogAbiotic: Display: Found index 5 to use as backup for save Oblivion, beginning now...
+[2024.11.05-03.58.48:835][343]LogAbiotic: Display: Existing backup found, deleting: Z:/server/AbioticFactor/Saved/SaveGames/Server/Backups/Oblivion/5
+[2024.11.05-03.58.48:850][343]LogAbiotic: Display: Copying directory tree: Z:/server/AbioticFactor/Saved/SaveGames/Server/Backups/Oblivion/5 Z:/server/AbioticFactor/Saved/SaveGames/Server/Worlds/Oblivion
+[2024.11.05-23.00.03:211][802]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerDisconnectedGS Result: '3' k_EResultNoConnection (no connection)
+[2024.11.05-23.08.38:905][462]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerConnectedGS ServerId: Server[0x1407B7D4DF40403]
+[2024.11.05-23.08.39:111][468]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerPolicyResponseGS Secure: 0
+[2024.11.07-07.36.57:777][115]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerDisconnectedGS Result: '20' k_EResultServiceUnavailable (requested service currently unavailable)
+[2024.11.07-07.37.24:720][930]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerConnectedGS ServerId: Server[0x1407B7D4DF40403]
+[2024.11.07-07.37.24:924][937]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerPolicyResponseGS Secure: 0
+[2024.11.12-23.09.34:885][405]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerDisconnectedGS Result: '3' k_EResultNoConnection (no connection)
+[2024.11.12-23.10.16:282][663]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerConnectedGS ServerId: Server[0x1407B7D4DF40403]
+[2024.11.12-23.10.16:426][667]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerPolicyResponseGS Secure: 0
+[2024.11.13-07.05.19:755][303]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerDisconnectedGS Result: '3' k_EResultNoConnection (no connection)
+[2024.11.13-07.07.56:571][ 53]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerConnectedGS ServerId: Server[0x1407B7D4DF40403]
+[2024.11.13-07.07.56:776][ 59]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerPolicyResponseGS Secure: 0
+[2024.11.13-07.18.11:064][676]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerDisconnectedGS Result: '3' k_EResultNoConnection (no connection)
+[2024.11.13-07.18.29:628][238]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerConnectedGS ServerId: Server[0x1407B7D4DF40403]
+[2024.11.13-07.18.30:080][252]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerPolicyResponseGS Secure: 0
+[2024.11.13-23.12.59:266][716]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerDisconnectedGS Result: '20' k_EResultServiceUnavailable (requested service currently unavailable)
+[2024.11.13-23.13.08:917][ 10]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerConnectedGS ServerId: Server[0x1407B7D4DF40403]
+[2024.11.13-23.13.09:163][ 17]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerPolicyResponseGS Secure: 0
