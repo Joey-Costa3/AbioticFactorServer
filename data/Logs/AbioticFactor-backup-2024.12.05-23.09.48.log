@@ -1,0 +1,684 @@
+﻿Log file open, 12/02/24 17:31:13
+LogWindows: Enabling Tpause support
+LogWindows: Custom abort handler registered for crash reporting.
+LogPakFile: Initializing PakPlatformFile
+LogIoDispatcher: Display: Reading toc: ../../../AbioticFactor/Content/Paks/global.utoc
+LogIoDispatcher: Display: Toc signature hash: 0000000000000000000000000000000000000000
+LogIoDispatcher: Display: Mounting container '../../../AbioticFactor/Content/Paks/global.utoc' in location slot 0
+LogPakFile: Display: Initialized I/O dispatcher file backend. Mounted the global container: ../../../AbioticFactor/Content/Paks/global.utoc
+LogPakFile: Display: Found Pak file ../../../AbioticFactor/Content/Paks/pakchunk0-WindowsServer.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../AbioticFactor/Content/Paks/pakchunk0-WindowsServer.pak.
+LogIoDispatcher: Display: Reading toc: ../../../AbioticFactor/Content/Paks/pakchunk0-WindowsServer.utoc
+LogIoDispatcher: Display: Toc signature hash: 0000000000000000000000000000000000000000
+LogIoDispatcher: Display: Mounting container '../../../AbioticFactor/Content/Paks/pakchunk0-WindowsServer.utoc' in location slot 0
+LogPakFile: Display: Mounted IoStore container "../../../AbioticFactor/Content/Paks/pakchunk0-WindowsServer.utoc"
+LogPakFile: Display: Mounted Pak file '../../../AbioticFactor/Content/Paks/pakchunk0-WindowsServer.pak', mount point: '../../../'
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-5246DE8E4375655FF5F89CBEC2174C53
+         Session CrashGUID >====================================================
+LogAssetRegistry: Premade AssetRegistry loaded from '../../../AbioticFactor/AssetRegistry.bin'
+LogPluginManager: Mounting Project plugin AdvancedSessions
+LogPluginManager: Mounting Project plugin AutoSettings
+LogPluginManager: Mounting Project plugin CommonLoadingScreen
+LogPluginManager: Mounting Project plugin DataTableEditorUtilities
+LogPluginManager: Mounting Project plugin Dovrac
+LogPluginManager: Mounting Project plugin GameAnalytics
+LogPluginManager: Mounting Project plugin HTTPSServer
+LogPluginManager: Mounting Project plugin NPC_Optimizator
+LogPluginManager: Mounting Project plugin SteamCore
+LogPluginManager: Mounting Project plugin UniversalVoiceChatPro
+LogPluginManager: Mounting Project plugin VictoryBPLibrary
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin ACLPlugin
+LogPluginManager: Mounting Engine plugin AnimationData
+LogPluginManager: Mounting Engine plugin ControlRigModules
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin DeformerGraph
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin BlueprintFileUtils
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosVD
+LogPluginManager: Found config from plugin[ChaosVD] Engine
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin MultiUserClient
+LogPluginManager: Mounting Engine plugin ConcertMain
+LogPluginManager: Mounting Engine plugin ConcertReplicationScripting
+LogPluginManager: Mounting Engine plugin ConcertSyncClient
+LogPluginManager: Mounting Engine plugin ConcertSyncCore
+LogPluginManager: Mounting Engine plugin ConcertClientSharedSlate
+LogPluginManager: Mounting Engine plugin ConcertSharedSlate
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin BlueprintHeaderView
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin LightMixer
+LogPluginManager: Mounting Engine plugin ObjectMixer
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin UVEditor
+LogPluginManager: Mounting Engine plugin EnhancedInput
+LogPluginManager: Found config from plugin[EnhancedInput] Input
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin GLTFExporter
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin VariantManager
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCaching
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosUserDataPT
+LogPluginManager: Mounting Engine plugin ChaosVehiclesPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin Dataflow
+LogPluginManager: Mounting Engine plugin Fracture
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin LocalizableMessage
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin StructUtils
+LogPluginManager: Mounting Engine plugin ToolPresets
+LogPluginManager: Mounting Engine plugin NiagaraSimCaching
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin Fab
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin BinkMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlate
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemSteam
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AnalyticsBlueprintLibrary
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin ApexDestruction
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioWidgets
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ComputeFramework
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin SQLiteCore
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HDRIBackdrop
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin Metasound
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin MsQuic
+LogPluginManager: Mounting Engine plugin DTLSHandlerComponent
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ReplicationGraph
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RigVM
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin SoundUtilities
+LogPluginManager: Mounting Engine plugin SteamShared
+LogPluginManager: Mounting Engine plugin SteamSockets
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WaveTable
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin XInputDevice
+LogPluginManager: Mounting Engine plugin InterchangeTests
+LogPluginManager: Mounting Engine plugin TraceUtilities
+LogPluginManager: Mounting Engine plugin MultiUserTakes
+LogPluginManager: Mounting Engine plugin Takes
+LogPluginManager: Mounting Engine plugin WorldMetrics
+LogHAL: Log category LogOnline verbosity has been raised to Verbose.
+LogHAL: Log category LogNet verbosity has been raised to Verbose.
+LogInit: Using libcurl 8.4.0
+LogInit:  - built for Windows
+LogInit:  - supports SSL with OpenSSL/1.1.1t
+LogInit:  - supports HTTP deflate (compression) using libz 1.3
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: CreateHttpThread using FCurlHttpThread
+LogSteamShared: Display: Loading Steam SDK 1.57
+LogSteamShared: Steam SDK Loaded!
+LogOnline: Verbose: STEAM: Steam: Starting SteamWorks. Client [0] Server [1]
+LogOnline: STEAM: [AppId: 427410] Game Server API initialized 1
+LogOnline: Verbose: STEAM: Created thread (ID:308).
+LogOnline: OSS: Created online subsystem instance for: STEAM
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [STEAM]
+LogInit: ExecutableName: AbioticFactorServer-Win64-Shipping.exe
+LogInit: Build: UE5-CL-0
+LogInit: Platform=WindowsServer
+LogInit: MachineId=2a3ba63c40c43092a785ab88bf82566a
+LogInit: DeviceId=
+LogInit: Engine Version: 5.4.4-0+UE5
+LogInit: Compatible Engine Version: 5.4.0-0+UE5
+LogInit: Net CL: 0
+LogInit: OS: Windows 7 (Service Pack 1), CPU: 12th Gen Intel(R) Core(TM) i7-12700K, GPU: Wine Adapter
+LogInit: Compiled (64-bit): Oct 24 2024 12:50:36
+LogInit: Architecture: x64
+LogInit: Compiled with Visual C++: 19.38.33139.00
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: UE5
+LogInit: Command Line:  -useperfthreads -NoAsyncLoadingThread -MaxServerPlayers=6 -PORT=7787 -QueryPort=27025 -ServerPassword=qwerty -SteamServerName=CostaDelMars -WorldSaveName=Oblivion -tcp
+LogInit: Base Directory: Z:/server/AbioticFactor/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogInit: This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Set CVar [[net.IsPushModelEnabled:1]]
+LogConfig: Set CVar [[net.PushModelSkipUndirtiedReplication:1]]
+LogConfig: Set CVar [[r.setres:1280x720]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.GPUCrashDebugging:0]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.GenerateMeshDistanceFields:1]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.DynamicGlobalIlluminationMethod:1]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.ReflectionMethod:1]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.Shadow.Virtual.Enable:0]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs:0]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.DefaultFeature.AutoExposure:0]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.MinScreenRadiusForLights:0.060000]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.MinScreenRadiusForCSMDepth:0.030000]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.ReflectionCaptureResolution:64]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.RayTracing.UseTextureLod:1]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.Shadow.UnbuiltPreviewInGame:0]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.CustomDepth:3]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.AntiAliasingMethod:4]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.MSAACount:2]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.PSOPrecaching:0]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.DefaultFeature.MotionBlur:0]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.Nanite.ProjectEnabled:0]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.Shaders.RemoveUnusedInterpolators:1]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2024.12.02-17.31.13:296][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[s.AsyncLoadingThreadEnabled:1]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[s.FlushStreamingOnExit:1]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[gc.FlushStreamingOnGC:0]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[gc.AllowParallelGC:1]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[gc.TimeBetweenPurgingPendingKillObjects:30.000000]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[gc.CreateGCClusters:1]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[gc.MinGCClusterSize:5]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[gc.AssetClustreringEnabled:0]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[gc.ActorClusteringEnabled:0]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[gc.UseDisregardForGCOnDedicatedServers:1]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[gc.VerifyUObjectsAreNotFGCObjects:0]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[gc.GarbageEliminationEnabled:1]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2024.12.02-17.31.13:296][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.ViewDistanceScale:1.0]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.FXAA.Quality:4]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.TSR.History.R11G11B10:1]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:200]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.TSR.Resurrection:1]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.LightFunctionQuality:1]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.Shadow.MaxResolution:2048]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.12.02-17.31.13:296][  0]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.CapsuleShadows:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:4096]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.DistanceFieldAO:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.AOQuality:2]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:4]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:4]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:300]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:8]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ShortRangeAO.HardwareRayTracing:0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:3]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:8]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:200]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.EyeAdaptationQuality:2]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.TonemapperGamma:2]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.SSAO:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.LumenScene.SurfaceCache.CardCaptureRefreshFraction:0.125]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.SSR.Quality:3]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.4]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.TonemapStrength:0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.MotionBlurQuality:0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.BloomQuality:3]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:2         ; lower gathering resolution]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Streaming.Boost:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Streaming.PoolSize:1000]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.DetailMode:3]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.SSGI.Quality:3]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.12.02-17.31.13:297][  0]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.12.02-17.31.13:298][  0]LogConfig: Set CVar [[fx.Niagara.QualityLevel:3]]
+[2024.12.02-17.31.13:298][  0]LogConfig: Set CVar [[r.Refraction.OffsetQuality:1]]
+[2024.12.02-17.31.13:298][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2024.12.02-17.31.13:298][  0]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2024.12.02-17.31.13:298][  0]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2024.12.02-17.31.13:298][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2024.12.02-17.31.13:298][  0]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.12.02-17.31.13:298][  0]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.12.02-17.31.13:298][  0]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.12.02-17.31.13:298][  0]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2024.12.02-17.31.13:298][  0]LogConfig: Applying CVar settings from Section [LandscapeQuality@3] File [Scalability]
+[2024.12.02-17.31.13:298][  0]LogInit: Selected Device Profile: [WindowsServer]
+[2024.12.02-17.31.13:298][  0]LogHAL: Display: Platform has ~ 71 GB [75758350336 / 137438953472 / 71], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.12.02-17.31.13:298][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2024.12.02-17.31.13:298][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.12.02-17.31.13:298][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2024.12.02-17.31.13:298][  0]LogConfig: Set CVar [[memory.MemoryPressureCriticalThresholdMB:512]]
+[2024.12.02-17.31.13:298][  0]LogConfig: Set CVar [[net.AllowEncryption:0]]
+[2024.12.02-17.31.13:298][  0]LogInit: Computer: 79668ABA731A
+[2024.12.02-17.31.13:298][  0]LogInit: User: root
+[2024.12.02-17.31.13:298][  0]LogInit: CPU Page size=4096, Cores=12
+[2024.12.02-17.31.13:298][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.12.02-17.31.13:298][  0]LogWindows: Error connecting to storage service [error code 8004100e]
+[2024.12.02-17.31.13:298][  0]LogMemory: Memory total: Physical=70.6GB (71GB approx) Virtual=70.6GB
+[2024.12.02-17.31.13:298][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2024.12.02-17.31.13:298][  0]LogMemory: Process Physical Memory: 454.28 MB used, 454.28 MB peak
+[2024.12.02-17.31.13:298][  0]LogMemory: Process Virtual Memory: 429.98 MB used, 429.98 MB peak
+[2024.12.02-17.31.13:298][  0]LogMemory: Physical Memory: 21474.77 MB used,  50774.03 MB free, 72248.80 MB total
+[2024.12.02-17.31.13:298][  0]LogMemory: Virtual Memory: 13282.77 MB used,  58966.03 MB free, 72248.80 MB total
+[2024.12.02-17.31.13:306][  0]LogWindows: WindowsPlatformFeatures disabled or dedicated server build
+[2024.12.02-17.31.13:306][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2024.12.02-17.31.13:306][  0]LogInit: Using OS detected language (en-US-POSIX).
+[2024.12.02-17.31.13:306][  0]LogInit: Using OS detected locale (en-US-POSIX).
+[2024.12.02-17.31.13:307][  0]LogTextLocalizationManager: No specific localization for 'en-US-POSIX' exists, so 'en' will be used for the language.
+[2024.12.02-17.31.13:316][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.12.02-17.31.13:322][  0]LogRendererCore: Ray tracing is disabled. Reason: disabled through project setting (r.RayTracing=0).
+[2024.12.02-17.31.13:327][  0]LogInit: Using OS detected language (en-US-POSIX).
+[2024.12.02-17.31.13:327][  0]LogInit: Using OS detected locale (en-US-POSIX).
+[2024.12.02-17.31.13:327][  0]LogTextLocalizationManager: No specific localization for 'en-US-POSIX' exists, so 'en' will be used for the language.
+[2024.12.02-17.31.13:327][  0]LogAssetRegistry: FAssetRegistry took 0.0001 seconds to start up
+[2024.12.02-17.31.13:405][  0]LogDeviceProfileManager: Active device profile: [000000002257CB80][0000000009689250 66] WindowsServer
+[2024.12.02-17.31.13:408][  0]LogTextureEncodingSettings: Display: Texture Encode Speed: Final (cook).
+[2024.12.02-17.31.13:408][  0]LogTextureEncodingSettings: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2024.12.02-17.31.13:408][  0]LogTextureEncodingSettings: Display: Shared linear texture encoding: Disabled
+[2024.12.02-17.31.13:419][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.12.02-17.31.13:419][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.12.02-17.31.13:423][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2024.12.02-17.31.13:434][  0]LogPackageLocalizationCache: Processed 60 localized package path(s) for 1 prioritized culture(s) in 0.000145 seconds
+[2024.12.02-17.31.13:434][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=128, MaxUdp=1024
+[2024.12.02-17.31.13:434][  0]LogAutoSettings: AutoSettings module starting up
+[2024.12.02-17.31.13:434][  0]LogAutoSettingsInput: AutoSettingsInput module starting up
+[2024.12.02-17.31.13:434][  0]LogGameAnalyticsAnalytics: Display: FAnalyticsGameAnalytics Constructor
+[2024.12.02-17.31.13:448][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.12.02-17.31.13:449][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2024.12.02-17.31.13:449][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.12.02-17.31.13:454][  0]LogUObjectArray: 28684 objects as part of root set at end of initial load.
+[2024.12.02-17.31.13:454][  0]LogUObjectArray: 10 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2024.12.02-17.31.13:454][  0]LogUObjectAllocator: 5793696 out of 0 bytes used by permanent object pool.
+[2024.12.02-17.31.13:454][  0]LogUObjectArray: CloseDisregardForGC: 28684/28684 objects in disregard for GC pool
+[2024.12.02-17.31.13:454][  0]LogEngine: Initializing Engine...
+[2024.12.02-17.31.13:458][  0]LogAssetManager: Display: Ignoring PrimaryAssetType PlayerCharacterVoice - Conflicts with PlayerCharacterVoiceDataAsset - Asset: PlayerCharacterVoice_FemaleA
+[2024.12.02-17.31.13:458][  0]LogNetVersion: Set ProjectVersion to 0.9.2.12333-Shipping. Version Checksum will be recalculated on next use.
+[2024.12.02-17.31.13:458][  0]LogInit: Texture streaming: Disabled
+[2024.12.02-17.31.13:657][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/StringTables/StringTable_Locations.StringTable_Locations' 'vignette_anteverse_c'. Did you forget to add a string table redirector?
+[2024.12.02-17.31.13:657][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/StringTables/StringTable_Locations.StringTable_Locations' 'vignette_southisland'. Did you forget to add a string table redirector?
+[2024.12.02-17.31.13:657][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/StringTables/StringTable_Locations.StringTable_Locations' 'vignette_shadowgate'. Did you forget to add a string table redirector?
+[2024.12.02-17.31.13:657][  0]LogStringTable: Warning: Failed to find string table entry for '/Game/StringTables/StringTable_Locations.StringTable_Locations' 'vignette_thewall'. Did you forget to add a string table redirector?
+[2024.12.02-17.31.13:933][  0]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.02-17.31.13:937][  0]LogNiagara: UAV Float16 is not supported, compressed GPU emitters will be disabled.
+[2024.12.02-17.31.13:938][  0]r.AntiAliasingMethod = "4"
+[2024.12.02-17.31.13:938][  0]LogPackageLocalizationCache: Processed 60 localized package path(s) for 1 prioritized culture(s) in 0.000061 seconds
+[2024.12.02-17.31.13:938][  0]bp.ScriptRecurseLimit = "1200"
+[2024.12.02-17.31.13:938][  0]LogAbioticRemoteConsole: Warning: Remote console through HTTPS is explicitly disabled.
+[2024.12.02-17.31.13:938][  0]LogAbiotic: Display: WorldSaveName set from param: Oblivion
+[2024.12.02-17.31.13:938][  0]LogInit: Display: Game Engine Initialized.
+[2024.12.02-17.31.13:938][  0]LogAutoSettings: Applying initial settings from config
+[2024.12.02-17.31.13:938][  0]LogAutoSettings: Applied 0 settings from config
+[2024.12.02-17.31.13:939][  0]LogInit: Display: Starting Game.
+[2024.12.02-17.31.13:939][  0]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/ServerEntry?Name=Player"
+[2024.12.02-17.31.13:939][  0]LogNet: Browse: /Game/Maps/ServerEntry?Name=Player
+[2024.12.02-17.31.13:939][  0]LogLoad: LoadMap: /Game/Maps/ServerEntry?Name=Player
+[2024.12.02-17.31.13:939][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2024.12.02-17.31.13:939][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-17.31.13:947][  0]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.02-17.31.13:947][  0]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.02-17.31.13:955][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.02-17.31.13:957][  0]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.02-17.31.13:960][  0]LogLoad: Game class is 'ServerEntryGameMode_C'
+[2024.12.02-17.31.13:960][  0]LogWorld: Bringing World /Game/Maps/ServerEntry.ServerEntry up for play (max tick rate 0) at 2024.12.02-17.31.13
+[2024.12.02-17.31.13:961][  0]LogWorld: Bringing up level for play took: 0.000108
+[2024.12.02-17.31.13:961][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.02-17.31.13:961][  0]LogAbiotic: Display: Steam Sockets Initialized!
+[2024.12.02-17.31.13:961][  0]LogAbiotic: Display: Dedicated Server entered ServerEntry, checking world save for corruption
+[2024.12.02-17.31.13:961][  0]LogAbiotic: Display: World save: Oblivion
+[2024.12.02-17.31.13:961][  0]LogWorldEntryItem: GetWorldEntries count: 1
+[2024.12.02-17.31.13:961][  0]LogWorldEntryItem: GetWorldEntries: Oblivion
+[2024.12.02-17.31.13:961][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_Facility
+[2024.12.02-17.31.13:992][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_Facility_MFFoundry
+[2024.12.02-17.31.13:993][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_Facility_MFHQ
+[2024.12.02-17.31.13:995][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_Facility_MFMines
+[2024.12.02-17.31.14:006][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_Facility_MFWest
+[2024.12.02-17.31.14:028][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_Facility_Office1
+[2024.12.02-17.31.14:037][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_Facility_Office2
+[2024.12.02-17.31.14:074][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_Facility_Office3
+[2024.12.02-17.31.14:100][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_Facility_Office4
+[2024.12.02-17.31.14:102][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_MetaData
+[2024.12.02-17.31.14:102][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_V_Anteverse_A
+[2024.12.02-17.31.14:102][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/WorldSave_V_FOG
+[2024.12.02-17.31.14:102][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/PlayerData/Player_76561197969472572
+[2024.12.02-17.31.14:104][  0]LogWorldEntryItem: ValidateFilesForCorruption: Server/Worlds/Oblivion/PlayerData/Player_76561199036446150
+[2024.12.02-17.31.14:106][  0]LogAbiotic: Display: World save Integrity State: Playable
+[2024.12.02-17.31.14:106][  0]LogAbiotic: Display: Dedicated Server is now loading the main map
+[2024.12.02-17.31.14:106][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.02-17.31.14:106][  0]LogLoad: Took 0.167053 seconds to LoadMap(/Game/Maps/ServerEntry)
+[2024.12.02-17.31.14:106][  0]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/ServerEntry
+[2024.12.02-17.31.14:111][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.12.02-17.31.14:111][  0]LogLoad: (Engine Initialization) Total time: 1.16 seconds
+[2024.12.02-17.31.14:452][997]LogGameMode: Display: Match State Changed from WaitingToStart to LeavingMap
+[2024.12.02-17.31.14:452][997]LogGameState: Match State Changed from WaitingToStart to LeavingMap
+[2024.12.02-17.31.14:452][997]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Facility?Listen?bPassthrough"
+[2024.12.02-17.31.14:452][997]LogNet: Browse: /Game/Maps/Facility?Listen?bPassthrough
+[2024.12.02-17.31.14:452][997]LogLoad: LoadMap: /Game/Maps/Facility?Listen?bPassthrough
+[2024.12.02-17.31.14:452][997]LogWorld: BeginTearingDown for /Game/Maps/ServerEntry
+[2024.12.02-17.31.14:452][997]LogWorld: UWorld::CleanupWorld for ServerEntry, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-17.31.14:453][997]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.02-17.31.14:453][997]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.02-17.31.14:457][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.12.02-17.31.14:624][997]LogStringTable: Warning: Failed to find string table entry for '/Game/StringTables/StringTable_Objects.StringTable_Objects' 'object_keypad'. Did you forget to add a string table redirector?
+[2024.12.02-17.31.14:734][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:734][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:734][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:734][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:735][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:736][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:738][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:738][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:738][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:738][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:738][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:738][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:738][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:738][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:738][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:738][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:738][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:738][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:738][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:738][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:739][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:740][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:740][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:740][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:740][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:740][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:740][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:740][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:740][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:740][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:740][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:743][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:743][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:743][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:743][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:743][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:743][997]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2024.12.02-17.31.14:769][997]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.02-17.31.14:774][997]LogLoad: Game class is 'Abiotic_Survival_GameMode_C'
+[2024.12.02-17.31.14:776][997]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.12.02-17.31.14:776][997]LogPushModel: PushModel HandleCreation is now enabled
+[2024.12.02-17.31.14:776][997]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model AbioticReplicationGraph
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric NumConnections
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric Connections
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric GatherPrioritizeTimeMS
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric InPacketsClientAvg
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric InPacketsClientMax
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric NumberOfActiveActors
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric NumberOfFullyDormantActors
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric NumClientUpdateLevelVisibility
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric NumOpenChannels
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric NumReplicateActorCallsPerConAvg
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric NumSkippedObjectEmptyUpdates
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric NumTickingChannels
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric OutKBytes
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric OutNetGUIDKBytesSec
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric OutPacketsClientAvg
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric OutPacketsClientMax
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric ReplicateActorTimeMS
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric SatConnections
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric ServerReplicateActorTimeMS
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric SharedSerializationPropertyHit
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric SharedSerializationPropertyMiss
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric SharedSerializationRPCHit
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric SharedSerializationRPCMiss
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric OutgoingReliableMessageQueueMaxSize
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsCSV_Replication for metric IncomingReliableMessageQueueMaxSize
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric NumConnections
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric AvgPing
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric InBunches
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric InPackets
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric InPacketsClientPerSecondAvg
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric InPacketsClientPerSecondMax
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric InPacketsClientPerSecondMin
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric InPacketsLost
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric InRate
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric InRateClientAvg
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric InRateClientMax
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric InRateClientMin
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric MaxPacketOverhead
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric MaxPing
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric MinPing
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric NumClients
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric Connections
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric OutBunches
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric OutPackets
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric OutPacketsClientPerSecondAvg
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric OutPacketsClientPerSecondMax
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric OutPacketsClientPerSecondMin
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric OutPacketsLost
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric OutRate
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric OutRateClientAvg
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric OutRateClientMax
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric OutRateClientMin
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric PingBucketInt0
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric PingBucketInt1
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric PingBucketInt2
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric PingBucketInt3
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric PingBucketInt4
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric PingBucketInt5
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric PingBucketInt6
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric PingBucketInt7
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric ClosedConnectionsDueToReliableBufferOverflow
+[2024.12.02-17.31.14:776][997]LogNet: Registering network metrics listener /Script/Engine.NetworkMetricsPerfCounters for metric AddedConnections
+[2024.12.02-17.31.14:776][997]LogNet: Verbose: SteamSockets: Looking for a binding address that matches protocol SteamSocketsIP
+[2024.12.02-17.31.14:776][997]LogNet: Verbose: SteamSockets: Looking at binding address [::]:0
+[2024.12.02-17.31.14:776][997]LogNet: Verbose: SteamSockets: Picked this binding address.
+[2024.12.02-17.31.14:776][997]PacketHandlerLog: Warning: PacketHandler encryption component is configured as DTLSHandlerComponent, but it won't be used because the cvar net.AllowEncryption is false.
+[2024.12.02-17.31.14:776][997]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.12.02-17.31.14:776][997]LogSockets: SteamSockets: Now tracking socket 65536 for addr [::]:7787, has parent? 0
+[2024.12.02-17.31.14:776][997]LogNet: Name:GameNetDriver Def:GameNetDriver SteamSocketsNetDriver_2147482321 started listening on 7787
+[2024.12.02-17.31.14:866][997]LogWorld: Bringing World /Game/Maps/Facility.Facility up for play (max tick rate 30) at 2024.12.02-17.31.14
+[2024.12.02-17.31.14:872][997]LogWorld: Bringing up level for play took: 0.096268
+[2024.12.02-17.31.14:916][997]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.02-17.31.15:140][997]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.02-17.31.15:140][997]LogLoad: Took 0.688609 seconds to LoadMap(/Game/Maps/Facility)
+[2024.12.02-17.31.15:140][997]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Facility
+[2024.12.02-17.31.15:142][997]LogNet: NotifyActorRenamed StartupActor: DESTROYED_Vehicle_Seat_Tram_Wide_C_CHILDACTOR_2147481702 PreviousName: ChildActor_GEN_VARIABLE_Vehicle_Seat_Tram_Wide_C_CAT_4
+[2024.12.02-17.31.15:142][997]LogNet: NotifyActorRenamed StartupActor: DESTROYED_Vehicle_Seat_Tram_Wide_C_CHILDACTOR_2147481701 PreviousName: ChildActor1_GEN_VARIABLE_Vehicle_Seat_Tram_Wide_C_CAT_5
+[2024.12.02-17.31.15:142][997]LogNet: NotifyActorRenamed StartupActor: DESTROYED_Deployed_Container_TramStorage_C_CHILDACTOR_2147481700 PreviousName: Container_GEN_VARIABLE_Deployed_Container_TramStorage_C_CAT_2
+[2024.12.02-17.31.15:142][997]LogNet: NotifyActorRenamed StartupActor: DESTROYED_Vehicle_Seat_Tram_Narrow_C_CHILDACTOR_2147481697 PreviousName: NarrowSeat_01_GEN_VARIABLE_Vehicle_Seat_Tram_Narrow_C_CAT_8
+[2024.12.02-17.31.15:142][997]LogNet: NotifyActorRenamed StartupActor: DESTROYED_Vehicle_Seat_Tram_Narrow_C_CHILDACTOR_2147481696 PreviousName: NarrowSeat_02_GEN_VARIABLE_Vehicle_Seat_Tram_Narrow_C_CAT_10
+[2024.12.02-17.31.15:142][997]LogNet: NotifyActorRenamed StartupActor: DESTROYED_Vehicle_Seat_Tram_Narrow_C_CHILDACTOR_2147481695 PreviousName: NarrowSeat_03_GEN_VARIABLE_Vehicle_Seat_Tram_Narrow_C_CAT_9
+[2024.12.02-17.31.15:142][997]LogNet: NotifyActorRenamed StartupActor: DESTROYED_Vehicle_Seat_Tram_Narrow_C_CHILDACTOR_2147481694 PreviousName: NarrowSeat_04_GEN_VARIABLE_Vehicle_Seat_Tram_Narrow_C_CAT_11
+[2024.12.02-17.31.15:142][997]LogNet: NotifyActorRenamed StartupActor: DESTROYED_Button_Tram_C_CHILDACTOR_2147481693 PreviousName: NegativeButton_GEN_VARIABLE_Button_Tram_C_CAT_1020
+[2024.12.02-17.31.15:142][997]LogNet: NotifyActorRenamed StartupActor: DESTROYED_Button_Tram_C_CHILDACTOR_2147481692 PreviousName: PositiveButton_GEN_VARIABLE_Button_Tram_C_CAT_1019
+[2024.12.02-17.31.16:922][ 49]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerConnectedGS ServerId: Server[0x1407D203EF3E403]
+[2024.12.02-17.31.17:273][ 59]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerPolicyResponseGS Secure: 0
+[2024.12.02-17.31.17:293][ 60]LogOnline: Verbose: OSS: Async task 'FOnlineAsyncTaskSteamCreateServer bWasSuccessful: 1' succeeded in 2.370525 seconds
+[2024.12.02-17.31.17:308][ 60]LogOnlineSession: Display: OSS: Session creation completed. Automatic start is turned on, starting session now.
+[2024.12.02-17.31.19:879][139]LogOnline: Verbose: OSS: Async task 'FOnlineAsyncTaskSteamUpdateServer bWasSuccessful: 1 Session: GameSession' succeeded in 0.001868 seconds
+[2024.12.02-17.36.14:965][ 95]LogSaveWorld: Display: Finished autosaving
+[2024.12.02-18.01.19:937][802]LogAbiotic: Display: Creating save backup for: Oblivion
+[2024.12.02-18.01.19:941][802]LogAbiotic: Display: Found index 3 to use as backup for save Oblivion, beginning now...
+[2024.12.02-18.01.19:941][802]LogAbiotic: Display: Existing backup found, deleting: Z:/server/AbioticFactor/Saved/SaveGames/Server/Backups/Oblivion/3
+[2024.12.02-18.01.19:944][802]LogAbiotic: Display: Copying directory tree: Z:/server/AbioticFactor/Saved/SaveGames/Server/Backups/Oblivion/3 Z:/server/AbioticFactor/Saved/SaveGames/Server/Worlds/Oblivion
+[2024.12.02-18.06.15:420][775]LogSaveWorld: Display: Finished autosaving
+[2024.12.02-18.31.24:998][631]LogAbiotic: Display: Creating save backup for: Oblivion
+[2024.12.02-18.31.25:040][631]LogAbiotic: Display: Found index 4 to use as backup for save Oblivion, beginning now...
+[2024.12.02-18.31.25:040][631]LogAbiotic: Display: Existing backup found, deleting: Z:/server/AbioticFactor/Saved/SaveGames/Server/Backups/Oblivion/4
+[2024.12.02-18.31.25:050][631]LogAbiotic: Display: Copying directory tree: Z:/server/AbioticFactor/Saved/SaveGames/Server/Backups/Oblivion/4 Z:/server/AbioticFactor/Saved/SaveGames/Server/Worlds/Oblivion
+[2024.12.05-23.08.30:172][703]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerDisconnectedGS Result: '3' k_EResultNoConnection (no connection)
+[2024.12.05-23.09.47:712][ 58]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerConnectedGS ServerId: Server[0x1407D203EF3E403]
+[2024.12.05-23.09.47:899][ 63]LogOnline: Verbose: STEAM: FOnlineAsyncEventSteamServerPolicyResponseGS Secure: 0
